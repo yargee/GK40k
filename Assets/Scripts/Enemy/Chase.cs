@@ -26,4 +26,8 @@ public class Chase : MonoBehaviour
         var angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.AngleAxis(angle - _rotationOffset, Vector3.forward);
     }
+    public void Init(Health target)
+    {
+        _target = target;
+    }
 }

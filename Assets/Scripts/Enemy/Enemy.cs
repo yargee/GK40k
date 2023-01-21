@@ -14,6 +14,8 @@ public class Enemy : MonoBehaviour
     [SerializeField] private Health _health;
     [SerializeField] private Chase _chase;
 
+    private Health _target;
+
     private void OnEnable()
     {        
         _collider = GetComponent<Collider2D>();
@@ -26,6 +28,12 @@ public class Enemy : MonoBehaviour
     private void OnDisable()
     {
         _health.Died -= OnDied;
+    }
+
+    public void Init(Health target)
+    {
+        _target = target;
+        _chase.Init(target);
     }
 
     private void OnDied()
