@@ -22,7 +22,7 @@ public class Chase : MonoBehaviour
 
     private void Rotate()
     {
-        var direction = _target.transform.position - transform.position;
+        var direction = (_target.transform.position - transform.position).normalized;
         var angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.AngleAxis(angle - _rotationOffset, Vector3.forward);
     }

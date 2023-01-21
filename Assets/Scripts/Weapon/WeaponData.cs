@@ -6,9 +6,9 @@ public class WeaponData : ScriptableObject
     [SerializeField] private string _name;
     [SerializeField] private int _id;
     [SerializeField] private Bullet _bulletTemplate;
-    [SerializeField][Range(0.1f, 1)] private float _rateOfFire;
-    [SerializeField][Range(0,1)] private float _scatter;
-    [SerializeField][Range(10, 50)] private int _range;
+    [SerializeField][Range(0.01f, 1)] private float _rateOfFire;
+    [SerializeField][Range(0,2)] private float _scatter;
+    [SerializeField][Range(1, 50)] private int _range;
 
     public string Name => _name;
     public int Id=> _id;

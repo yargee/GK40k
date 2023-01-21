@@ -9,6 +9,7 @@ public class RangedWeapon : MonoBehaviour
     private WaitForSeconds _delay;
 
     public bool Shooting { get; private set; } = false;
+    public WeaponData Data => _data;
 
     public void Init(Transform barrel)
     {
