@@ -1,0 +1,4820 @@
+fileFormatVersion: 2
+guid: 7f82b9885788e9849b9c797658059203
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2498960915278756404
+    second: Blood_angels_0
+  - first:
+      213: -3309004941815329204
+    second: Blood_angels_1
+  - first:
+      213: 1274478891656120205
+    second: Blood_angels_2
+  - first:
+      213: -7122097970254828732
+    second: Blood_angels_3
+  - first:
+      213: -7957186515841214738
+    second: Blood_angels_4
+  - first:
+      213: 2513311539343248681
+    second: Blood_angels_5
+  - first:
+      213: 72881795627077678
+    second: Blood_angels_6
+  - first:
+      213: 4679241472875239566
+    second: Blood_angels_7
+  - first:
+      213: -3581716598137562498
+    second: Blood_angels_8
+  - first:
+      213: -1969605202431468531
+    second: Blood_angels_9
+  - first:
+      213: -7298610466896641994
+    second: Blood_angels_10
+  - first:
+      213: 7701012826687636410
+    second: Blood_angels_11
+  - first:
+      213: 8045896199396107412
+    second: Blood_angels_12
+  - first:
+      213: 1107622299853154581
+    second: Blood_angels_13
+  - first:
+      213: 6408858211758866088
+    second: Blood_angels_14
+  - first:
+      213: -293143486376574766
+    second: Blood_angels_15
+  - first:
+      213: -9008418594006872668
+    second: Blood_angels_16
+  - first:
+      213: -5691585388800098207
+    second: Blood_angels_17
+  - first:
+      213: -8524150820235116518
+    second: Blood_angels_18
+  - first:
+      213: -3770803506757108970
+    second: Blood_angels_19
+  - first:
+      213: 5054171593775117534
+    second: Blood_angels_20
+  - first:
+      213: 5831078642204630206
+    second: Blood_angels_21
+  - first:
+      213: -2252914889291735542
+    second: Blood_angels_22
+  - first:
+      213: -5107432769439784223
+    second: Blood_angels_23
+  - first:
+      213: 631458432647508641
+    second: Blood_angels_24
+  - first:
+      213: 5814570816559205115
+    second: Blood_angels_25
+  - first:
+      213: -6240515485908888871
+    second: Blood_angels_26
+  - first:
+      213: 6362887082425244088
+    second: Blood_angels_27
+  - first:
+      213: 8018695892454062293
+    second: Blood_angels_28
+  - first:
+      213: 1031513896570411688
+    second: Blood_angels_29
+  - first:
+      213: -3540956878944286098
+    second: Blood_angels_30
+  - first:
+      213: 4231429888307687137
+    second: Blood_angels_31
+  - first:
+      213: -8108933893622300765
+    second: Blood_angels_32
+  - first:
+      213: -5350166043201125203
+    second: Blood_angels_33
+  - first:
+      213: -2833218478530590571
+    second: Blood_angels_34
+  - first:
+      213: 2489822326709349592
+    second: Blood_angels_35
+  - first:
+      213: -4954231781354128677
+    second: Blood_angels_36
+  - first:
+      213: -1786178816539173689
+    second: Blood_angels_37
+  - first:
+      213: 1819421471373707393
+    second: Blood_angels_38
+  - first:
+      213: 6372578421583415894
+    second: Blood_angels_39
+  - first:
+      213: 2911588590602725214
+    second: Blood_angels_40
+  - first:
+      213: -6919377119405034233
+    second: Blood_angels_41
+  - first:
+      213: -7386092024691754437
+    second: Blood_angels_42
+  - first:
+      213: -605814643254186552
+    second: Blood_angels_43
+  - first:
+      213: -1630452394066114365
+    second: Blood_angels_44
+  - first:
+      213: -8497011242062597905
+    second: Blood_angels_45
+  - first:
+      213: 9046759323209324061
+    second: Blood_angels_46
+  - first:
+      213: 3970498530758002851
+    second: Blood_angels_47
+  - first:
+      213: -8269279677083318167
+    second: Blood_angels_48
+  - first:
+      213: -8889492477261598839
+    second: Blood_angels_49
+  - first:
+      213: -2253276784493308769
+    second: Blood_angels_50
+  - first:
+      213: -7496149005193603959
+    second: Blood_angels_51
+  - first:
+      213: -1855190668060460887
+    second: Blood_angels_52
+  - first:
+      213: -5430514323572232663
+    second: Blood_angels_53
+  - first:
+      213: 241844601145353034
+    second: Blood_angels_54
+  - first:
+      213: -2293382296914348612
+    second: Blood_angels_55
+  - first:
+      213: -5428704229619488849
+    second: Blood_angels_56
+  - first:
+      213: 3563440269312320929
+    second: Blood_angels_57
+  - first:
+      213: -5794198523930688341
+    second: Blood_angels_58
+  - first:
+      213: -525198463235555448
+    second: Blood_angels_59
+  - first:
+      213: 4661732666148681230
+    second: Blood_angels_60
+  - first:
+      213: -2473546423672491543
+    second: Blood_angels_61
+  - first:
+      213: 6509840241991527585
+    second: Blood_angels_62
+  - first:
+      213: -3721674761856600030
+    second: Blood_angels_63
+  - first:
+      213: 4799107372955189929
+    second: Blood_angels_64
+  - first:
+      213: 5822035190011099131
+    second: Blood_angels_65
+  - first:
+      213: -6191344088819146028
+    second: Blood_angels_66
+  - first:
+      213: 6378791290647364975
+    second: Blood_angels_67
+  - first:
+      213: -8199483737061269717
+    second: Blood_angels_68
+  - first:
+      213: -1053291656907734963
+    second: Blood_angels_69
+  - first:
+      213: 4641969228788598657
+    second: Blood_angels_70
+  - first:
+      213: -2108546138638956990
+    second: Blood_angels_71
+  - first:
+      213: -3282833947061913473
+    second: Blood_angels_72
+  - first:
+      213: 7277740934509793495
+    second: Blood_angels_73
+  - first:
+      213: 1498134605544680719
+    second: Blood_angels_74
+  - first:
+      213: 4572487081029187630
+    second: Blood_angels_75
+  - first:
+      213: -7882596351066270141
+    second: Blood_angels_76
+  - first:
+      213: -676889202840919169
+    second: Blood_angels_77
+  - first:
+      213: -8136699675046167184
+    second: Blood_angels_78
+  - first:
+      213: -5550537005158902240
+    second: Blood_angels_79
+  - first:
+      213: -7966331089059593184
+    second: Blood_angels_80
+  - first:
+      213: 2739881862002008411
+    second: Blood_angels_81
+  - first:
+      213: -5167397249413685047
+    second: Blood_angels_82
+  - first:
+      213: 4834790119792571186
+    second: Blood_angels_83
+  - first:
+      213: -7036947545440202385
+    second: Blood_angels_84
+  - first:
+      213: -8372892370238000675
+    second: Blood_angels_85
+  - first:
+      213: -99375839415210357
+    second: Blood_angels_86
+  - first:
+      213: -1300979803199292788
+    second: Blood_angels_87
+  - first:
+      213: -9019967630960550086
+    second: Blood_angels_88
+  - first:
+      213: -6386282245625180884
+    second: Blood_angels_89
+  - first:
+      213: -3484612382871144005
+    second: Blood_angels_90
+  - first:
+      213: 7856857888790065954
+    second: Blood_angels_91
+  - first:
+      213: 8005642519780065096
+    second: Blood_angels_92
+  - first:
+      213: 4532593052441343520
+    second: Blood_angels_93
+  - first:
+      213: 628711646002976141
+    second: Blood_angels_94
+  - first:
+      213: -4068874103810464294
+    second: Blood_angels_95
+  - first:
+      213: -1737400930001065574
+    second: Blood_angels_96
+  - first:
+      213: 8719370691436832581
+    second: Blood_angels_97
+  - first:
+      213: 1050951529848442673
+    second: Blood_angels_98
+  - first:
+      213: -3072834309084691770
+    second: Blood_angels_99
+  - first:
+      213: 619938995323317025
+    second: Blood_angels_100
+  - first:
+      213: 1934272815527034036
+    second: Blood_angels_101
+  - first:
+      213: 7397431393481495678
+    second: Blood_angels_102
+  - first:
+      213: 833415407419335180
+    second: Blood_angels_103
+  - first:
+      213: 71961717953778744
+    second: Blood_angels_104
+  - first:
+      213: -3301007540685951983
+    second: Blood_angels_105
+  - first:
+      213: -7630335366071087830
+    second: Blood_angels_106
+  - first:
+      213: 5930340359593070314
+    second: Blood_angels_107
+  - first:
+      213: -3556201373201238835
+    second: Blood_angels_108
+  - first:
+      213: -8534843294075690492
+    second: Blood_angels_109
+  - first:
+      213: 554349683608587737
+    second: Blood_angels_110
+  - first:
+      213: 1831692747803358785
+    second: Blood_angels_111
+  - first:
+      213: -6519906590480569084
+    second: Blood_angels_112
+  - first:
+      213: 9117844005263252764
+    second: Blood_angels_113
+  - first:
+      213: -2154412736511521272
+    second: Blood_angels_114
+  - first:
+      213: 2898526886735910477
+    second: Blood_angels_115
+  - first:
+      213: 7619638821053062453
+    second: Blood_angels_116
+  - first:
+      213: 502409908217924640
+    second: Blood_angels_117
+  - first:
+      213: -5189806586094347889
+    second: Blood_angels_118
+  - first:
+      213: 7348309361708476322
+    second: Blood_angels_119
+  - first:
+      213: -8384068973363784672
+    second: Blood_angels_120
+  - first:
+      213: 7716337600973670515
+    second: Blood_angels_121
+  - first:
+      213: -8646793929169503527
+    second: Blood_angels_122
+  - first:
+      213: 8034647280686598154
+    second: Blood_angels_123
+  - first:
+      213: -6594406492201489541
+    second: Blood_angels_124
+  - first:
+      213: -2739580455514828976
+    second: Blood_angels_125
+  - first:
+      213: 8261305364552805180
+    second: Blood_angels_126
+  - first:
+      213: -8813621476038975954
+    second: Blood_angels_127
+  - first:
+      213: -5446347586444339921
+    second: Blood_angels_128
+  - first:
+      213: 6792724712935706537
+    second: Blood_angels_129
+  - first:
+      213: 1904055220539324346
+    second: Blood_angels_130
+  - first:
+      213: -1229662605607041737
+    second: Blood_angels_131
+  - first:
+      213: -5460468965921721448
+    second: Blood_angels_132
+  - first:
+      213: 4006450928353390026
+    second: Blood_angels_133
+  - first:
+      213: 1541527092688886031
+    second: Blood_angels_134
+  - first:
+      213: -7383259393418181337
+    second: Blood_angels_135
+  - first:
+      213: -5456871206136235940
+    second: Blood_angels_136
+  - first:
+      213: -3589216633105086659
+    second: Blood_angels_137
+  - first:
+      213: 7748999147773560642
+    second: Blood_angels_138
+  - first:
+      213: 3055082103976869141
+    second: Blood_angels_139
+  - first:
+      213: -3510648597626425687
+    second: Blood_angels_140
+  - first:
+      213: 1102467876438963794
+    second: Blood_angels_141
+  - first:
+      213: -6921999975342663925
+    second: Blood_angels_142
+  - first:
+      213: -8176115211648833481
+    second: Blood_angels_143
+  - first:
+      213: -7565961327157418478
+    second: Blood_angels_144
+  - first:
+      213: -6220016779343185716
+    second: Blood_angels_145
+  - first:
+      213: 6057199417014710564
+    second: Blood_angels_146
+  - first:
+      213: 823901583488766998
+    second: Blood_angels_147
+  - first:
+      213: 1452616251509142455
+    second: Blood_angels_148
+  - first:
+      213: 6803602370869748190
+    second: Blood_angels_149
+  - first:
+      213: -1168508268049283503
+    second: Blood_angels_150
+  - first:
+      213: 3035458781621634550
+    second: Blood_angels_151
+  - first:
+      213: -8222486052265717877
+    second: Blood_angels_152
+  - first:
+      213: -2591931562162179578
+    second: Blood_angels_153
+  - first:
+      213: 2415962059730553296
+    second: Blood_angels_154
+  - first:
+      213: -6803807741605471705
+    second: Blood_angels_155
+  - first:
+      213: -6166319366626350956
+    second: Blood_angels_156
+  - first:
+      213: 5919255522034472903
+    second: Blood_angels_157
+  - first:
+      213: -3769543441764663586
+    second: Blood_angels_158
+  - first:
+      213: 1702994546201428717
+    second: Blood_angels_159
+  - first:
+      213: -8389412475004067246
+    second: Blood_angels_160
+  - first:
+      213: 3692995061445227072
+    second: Blood_angels_161
+  - first:
+      213: 5557850926135828585
+    second: Blood_angels_162
+  - first:
+      213: -8840052892487933579
+    second: Blood_angels_163
+  - first:
+      213: 9002166828800681574
+    second: Blood_angels_164
+  - first:
+      213: -8494848192116291888
+    second: Blood_angels_165
+  - first:
+      213: -7146634578441318880
+    second: Blood_angels_166
+  - first:
+      213: -212919720245558387
+    second: Blood_angels_167
+  - first:
+      213: 8400522294406701718
+    second: Blood_angels_168
+  - first:
+      213: 5446324658418304461
+    second: Blood_angels_169
+  - first:
+      213: 3653866407735909898
+    second: Blood_angels_170
+  - first:
+      213: 2179035125096763869
+    second: Blood_angels_171
+  - first:
+      213: 2174145650989213821
+    second: Blood_angels_172
+  - first:
+      213: 7920656506542387270
+    second: Blood_angels_173
+  - first:
+      213: -7565205208257893594
+    second: Blood_angels_174
+  - first:
+      213: 5555958593026580663
+    second: Blood_angels_175
+  - first:
+      213: 5746842786673753884
+    second: Blood_angels_176
+  - first:
+      213: -8881176261491162638
+    second: Blood_angels_177
+  - first:
+      213: 4743368240738555147
+    second: Blood_angels_178
+  - first:
+      213: 5399819853712165570
+    second: Blood_angels_179
+  - first:
+      213: -1470274615250584792
+    second: Blood_angels_180
+  - first:
+      213: -4809714034383848307
+    second: Blood_angels_181
+  - first:
+      213: 2924064712784626196
+    second: Blood_angels_182
+  - first:
+      213: 2360484075044179568
+    second: Blood_angels_183
+  - first:
+      213: 6510337296789328821
+    second: Blood_angels_184
+  - first:
+      213: -8571378218119843754
+    second: Blood_angels_185
+  - first:
+      213: -3807971636314540740
+    second: Blood_angels_186
+  - first:
+      213: 3945649596743283958
+    second: Blood_angels_187
+  - first:
+      213: -5488624687263657291
+    second: Blood_angels_188
+  - first:
+      213: -8204980753173856096
+    second: Blood_angels_189
+  - first:
+      213: 7637401481342097377
+    second: Blood_angels_190
+  - first:
+      213: -1639314653380743206
+    second: Blood_angels_191
+  - first:
+      213: 3209791800624140955
+    second: Blood_angels_192
+  - first:
+      213: 1313890357405963425
+    second: Blood_angels_193
+  - first:
+      213: -6974379461089839716
+    second: Blood_angels_194
+  - first:
+      213: 770026648331603071
+    second: Blood_angels_195
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Blood_angels_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc58931a948e15dd0800000000000000
+      internalID: -2498960915278756404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 620
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ec51b898d0412d0800000000000000
+      internalID: -3309004941815329204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 621
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8785eaaccbdfa110800000000000000
+      internalID: 1274478891656120205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_3
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 621
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44b2e6b61a9392d90800000000000000
+      internalID: -7122097970254828732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_4
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 691
+        width: 5
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee691c7d505629190800000000000000
+      internalID: -7957186515841214738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_5
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 615
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92dc178678311e220800000000000000
+      internalID: 2513311539343248681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_6
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 614
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e20d1f26b9de20100800000000000000
+      internalID: 72881795627077678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 613
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e881101f35100f040800000000000000
+      internalID: 4679241472875239566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_8
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 613
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7ad3e11bbf2b4ec0800000000000000
+      internalID: -3581716598137562498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_9
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 613
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c9f49f08e8aa4e0800000000000000
+      internalID: -1969605202431468531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_10
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 612
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6308da6337026ba90800000000000000
+      internalID: -7298610466896641994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_11
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 634
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab381793d5e7fda60800000000000000
+      internalID: 7701012826687636410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_12
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 636
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 494aba0e6f3c8af60800000000000000
+      internalID: 8045896199396107412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 612
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5196c000d901f5f00800000000000000
+      internalID: 1107622299853154581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_14
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 612
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae7bb78696d0f850800000000000000
+      internalID: 6408858211758866088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_15
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 612
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d00e426d8b8eebf0800000000000000
+      internalID: -293143486376574766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_16
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 617
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ad4234740babf280800000000000000
+      internalID: -9008418594006872668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_17
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 513
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16044c38e3d6301b0800000000000000
+      internalID: -5691585388800098207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_18
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 578
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10080cedf124b980800000000000000
+      internalID: -8524150820235116518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_19
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 576
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61bf1fd603a6babc0800000000000000
+      internalID: -3770803506757108970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 575
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4f5d05946042640800000000000000
+      internalID: 5054171593775117534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_21
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 574
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebc59f571272ce050800000000000000
+      internalID: 5831078642204630206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_22
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 575
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed39a38d90cb0e0800000000000000
+      internalID: -2252914889291735542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_23
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 573
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e22a5fd4f0ce19b0800000000000000
+      internalID: -5107432769439784223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_24
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 575
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a23160591463c800800000000000000
+      internalID: 631458432647508641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_25
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 575
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfa4d5ac95181b050800000000000000
+      internalID: 5814570816559205115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_26
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 575
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d2931faa3c3569a0800000000000000
+      internalID: -6240515485908888871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_27
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 575
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b9d0e5e6148d4850800000000000000
+      internalID: 6362887082425244088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_28
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 575
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8bb97ed61284f60800000000000000
+      internalID: 8018695892454062293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_29
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 576
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aa55f97c6ca05e00800000000000000
+      internalID: 1031513896570411688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_30
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 576
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6acc89ba7efbdec0800000000000000
+      internalID: -3540956878944286098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_31
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 577
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eeec88701f09ba30800000000000000
+      internalID: 4231429888307687137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_32
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 578
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af74833697477f80800000000000000
+      internalID: -8108933893622300765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_33
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 576
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da4c3a1845460c5b0800000000000000
+      internalID: -5350166043201125203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_34
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 575
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5988c180ec26ea8d0800000000000000
+      internalID: -2833218478530590571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_35
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 575
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dce859e630ad8220800000000000000
+      internalID: 2489822326709349592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_36
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 573
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdabf6981780f3bb0800000000000000
+      internalID: -4954231781354128677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_37
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 572
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ccdad674d73637e0800000000000000
+      internalID: -1786178816539173689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_38
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 522
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188c2f14032ef3910800000000000000
+      internalID: 1819421471373707393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_39
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 509
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a8cc1af42ff6850800000000000000
+      internalID: 6372578421583415894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 522
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e57a4fa956a086820800000000000000
+      internalID: 2911588590602725214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_41
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 524
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 705b5ea9b2f69ff90800000000000000
+      internalID: -6919377119405034233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_42
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 524
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3af6edcf645f7990800000000000000
+      internalID: -7386092024691754437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_43
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 524
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdaa1daac6b797f0800000000000000
+      internalID: -605814643254186552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_44
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 522
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c80184af287f59e0800000000000000
+      internalID: -1630452394066114365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_45
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 521
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe0bb506b4d841a80800000000000000
+      internalID: -8497011242062597905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_46
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 523
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1658543cab8c8d70800000000000000
+      internalID: 9046759323209324061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_47
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 511
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a88a0b806b0a1730800000000000000
+      internalID: 3970498530758002851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_48
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 456
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 968871b32fd9d3d80800000000000000
+      internalID: -8269279677083318167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_49
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 456
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98fa053c0bd22a480800000000000000
+      internalID: -8889492477261598839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_50
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 458
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9454afe3b0cab0e0800000000000000
+      internalID: -2253276784493308769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_51
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 458
+        width: 97
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9849902323458f790800000000000000
+      internalID: -7496149005193603959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_52
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 457
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8f2a7aae90146e0800000000000000
+      internalID: -1855190668060460887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_53
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 461
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92e6ecbaeffe2a4b0800000000000000
+      internalID: -5430514323572232663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_54
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 461
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a436d1622643b5300800000000000000
+      internalID: 241844601145353034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_55
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 461
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb5304aa3f44c20e0800000000000000
+      internalID: -2293382296914348612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_56
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 462
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa7aed2044e59a4b0800000000000000
+      internalID: -5428704229619488849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_57
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 462
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a5eea68b02e37130800000000000000
+      internalID: 3563440269312320929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_58
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 463
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba4c407342fd69fa0800000000000000
+      internalID: -5794198523930688341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 462
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88f7342c7ce16b8f0800000000000000
+      internalID: -525198463235555448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_60
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 463
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0670a3392dc1b040800000000000000
+      internalID: 4661732666148681230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_61
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 463
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e1309112a23cadd0800000000000000
+      internalID: -2473546423672491543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_62
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 428
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aca270a539975a50800000000000000
+      internalID: 6509840241991527585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 398
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 228300ab584f95cc0800000000000000
+      internalID: -3721674761856600030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_64
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2c3fb9abad99240800000000000000
+      internalID: 4799107372955189929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_65
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 409
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf77f6aa8260cc050800000000000000
+      internalID: 5822035190011099131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_66
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 410
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d268b7ba5de31aa0800000000000000
+      internalID: -6191344088819146028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_67
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 420
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f65446fe1e4068850800000000000000
+      internalID: 6378791290647364975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_68
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 422
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2fdededbf4953e80800000000000000
+      internalID: -8199483737061269717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_69
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 421
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d40c12191d4f161f0800000000000000
+      internalID: -1053291656907734963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_70
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 419
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1870d3c5b669b6040800000000000000
+      internalID: 4641969228788598657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_71
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 420
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24647ed5570fcb2e0800000000000000
+      internalID: -2108546138638956990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_72
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 419
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f78f7c81be70172d0800000000000000
+      internalID: -3282833947061913473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_73
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 420
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d096c022dabff460800000000000000
+      internalID: 7277740934509793495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_74
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 420
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0de53d7c717ac410800000000000000
+      internalID: 1498134605544680719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_75
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 420
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28becc26ccb47f30800000000000000
+      internalID: 4572487081029187630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_76
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 419
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34697eae1646b9290800000000000000
+      internalID: -7882596351066270141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_77
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 420
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f73ae583bd43b96f0800000000000000
+      internalID: -676889202840919169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_78
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 352
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d36d071c2a41f80800000000000000
+      internalID: -8136699675046167184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_79
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 371
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 026d7d6700888f2b0800000000000000
+      internalID: -5550537005158902240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 371
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024c379f418e17190800000000000000
+      internalID: -7966331089059593184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_81
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 372
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b516a277904060620800000000000000
+      internalID: 2739881862002008411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_82
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c0ed576497b948b0800000000000000
+      internalID: -5167397249413685047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_83
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 373
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 233fdc58fff981340800000000000000
+      internalID: 4834790119792571186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_84
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 373
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f61daf2ad7db75e90800000000000000
+      internalID: -7036947545440202385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_85
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 373
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1b26130c28dcb80800000000000000
+      internalID: -8372892370238000675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_86
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 374
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e66685332fe9ef0800000000000000
+      internalID: -99375839415210357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_87
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 384
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a395a03cdf1fde0800000000000000
+      internalID: -1300979803199292788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_88
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 385
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3f131fba33a2d280800000000000000
+      internalID: -9019967630960550086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_89
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 386
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d8022322e5f57a0800000000000000
+      internalID: -6386282245625180884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_90
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 384
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb9b903008b24afc0800000000000000
+      internalID: -3484612382871144005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_91
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 385
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223be085f9a290d60800000000000000
+      internalID: 7856857888790065954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_92
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 384
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ff04eb471c91f60800000000000000
+      internalID: 8005642519780065096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_93
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 385
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0267b22dd5107ee30800000000000000
+      internalID: 4532593052441343520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_94
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 385
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d85982639e1a9b800800000000000000
+      internalID: 628711646002976141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_95
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 385
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad567967f847887c0800000000000000
+      internalID: -4068874103810464294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_96
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 384
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a996ade2f0383e7e0800000000000000
+      internalID: -1737400930001065574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_97
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 385
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5476b08527d610970800000000000000
+      internalID: 8719370691436832581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_98
+      rect:
+        serializedVersion: 2
+        x: 1108
+        y: 314
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13f05c429dab59e00800000000000000
+      internalID: 1050951529848442673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_99
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 300
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2cf59f9791b55d0800000000000000
+      internalID: -3072834309084691770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_100
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 335
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12ba8ae4b377a9800800000000000000
+      internalID: 619938995323317025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_101
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 334
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bcfe24a0eae7da10800000000000000
+      internalID: 1934272815527034036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_102
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 302
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7499cab8a4f8a660800000000000000
+      internalID: 7397431393481495678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_103
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 302
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c02219db5e2e09b00800000000000000
+      internalID: 833415407419335180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_104
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 300
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834df0c1dc8aff000800000000000000
+      internalID: 71961717953778744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_105
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 300
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11c278891277032d0800000000000000
+      internalID: -3301007540685951983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_106
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 301
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d8b3c696a9b1690800000000000000
+      internalID: -7630335366071087830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_107
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 298
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aee05b2032dcc4250800000000000000
+      internalID: 5930340359593070314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_108
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 302
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc4759051b5d5aec0800000000000000
+      internalID: -3556201373201238835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_109
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 302
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4026efa5e352e8980800000000000000
+      internalID: -8534843294075690492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_110
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 301
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd07d4a91271b700800000000000000
+      internalID: 554349683608587737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_111
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 300
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1467a7279da7b6910800000000000000
+      internalID: 1831692747803358785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_112
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 301
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d6da9ff73a485a0800000000000000
+      internalID: -6519906590480569084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_113
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 300
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d142b70d6198e70800000000000000
+      internalID: 9117844005263252764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_114
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 295
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80e47acd70df912e0800000000000000
+      internalID: -2154412736511521272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_115
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 298
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4610dfa8d2a93820800000000000000
+      internalID: 2898526886735910477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_116
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 299
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53dd4ad13256eb960800000000000000
+      internalID: 7619638821053062453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_117
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 298
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02c47fe462be8f600800000000000000
+      internalID: 502409908217924640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_118
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 299
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f891dde186a1af7b0800000000000000
+      internalID: -5189806586094347889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_119
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 301
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7af447e607af560800000000000000
+      internalID: 7348309361708476322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_120
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 298
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024174e70bdc5ab80800000000000000
+      internalID: -8384068973363784672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_121
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 299
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37886094a20f51b60800000000000000
+      internalID: 7716337600973670515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_122
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 298
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9daf8ddebba600880800000000000000
+      internalID: -8646793929169503527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_123
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 298
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0802e4e12dc08f60800000000000000
+      internalID: 8034647280686598154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_124
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 299
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7becc7eb36fb74a0800000000000000
+      internalID: -6594406492201489541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_125
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 299
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05f8f63371e0bf9d0800000000000000
+      internalID: -2739580455514828976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_126
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 299
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3be233757d06a270800000000000000
+      internalID: 8261305364552805180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_127
+      rect:
+        serializedVersion: 2
+        x: 1111
+        y: 199
+        width: 97
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2e51ffc6f9bfa580800000000000000
+      internalID: -8813621476038975954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_128
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 227
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f25dda2e9bfaa64b0800000000000000
+      internalID: -5446347586444339921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_129
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9afcc83132b944e50800000000000000
+      internalID: 6792724712935706537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_130
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab779fc82209c6a10800000000000000
+      internalID: 1904055220539324346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_131
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735063f006c5feee0800000000000000
+      internalID: -1229662605607041737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_132
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 893f03308648834b0800000000000000
+      internalID: -5460468965921721448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_133
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 279
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acda98a64e5c99730800000000000000
+      internalID: 4006450928353390026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_134
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 277
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f099c5339ba946510800000000000000
+      internalID: 1541527092688886031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_135
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 225
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7254eba23b4698990800000000000000
+      internalID: -7383259393418181337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_136
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 226
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58313dbc8c4544b0800000000000000
+      internalID: -5456871206136235940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_137
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 225
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3709d91d7a803ec0800000000000000
+      internalID: -3589216633105086659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_138
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 225
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24709df3ba9f98b60800000000000000
+      internalID: 7748999147773560642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_139
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 226
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51db13facf4d56a20800000000000000
+      internalID: 3055082103976869141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_140
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 228
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aee04f53bba74fc0800000000000000
+      internalID: -3510648597626425687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_141
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 228
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2567c6741b0cc4f00800000000000000
+      internalID: 1102467876438963794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_142
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 258
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b07107e52bd10ff90800000000000000
+      internalID: -6921999975342663925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_143
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738e00fa88a988e80800000000000000
+      internalID: -8176115211648833481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_144
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 216
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2166076524e400790800000000000000
+      internalID: -7565961327157418478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_145
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 216
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc8b74ab1bf0ea9a0800000000000000
+      internalID: -6220016779343185716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_146
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 217
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217dd007ce7f0450800000000000000
+      internalID: 6057199417014710564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_147
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 219
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614dabdff161f6b00800000000000000
+      internalID: 823901583488766998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_148
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 218
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b37922d8cab82410800000000000000
+      internalID: 1452616251509142455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_149
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 218
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed162bc2f404b6e50800000000000000
+      internalID: 6803602370869748190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_150
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 218
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 156c0d5dbef98cfe0800000000000000
+      internalID: -1168508268049283503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_151
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 219
+        width: 30
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f5c5e8edad102a20800000000000000
+      internalID: 3035458781621634550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_152
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 176
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8f0914008cd3ed80800000000000000
+      internalID: -8222486052265717877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_153
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 174
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60233331afb970cd0800000000000000
+      internalID: -2591931562162179578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_154
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d98f0961b8378120800000000000000
+      internalID: 2415962059730553296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_155
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 172
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a9d8938e40491a0800000000000000
+      internalID: -6803807741605471705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_156
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 173
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 498ef94e435dc6aa0800000000000000
+      internalID: -6166319366626350956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_157
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 171
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c752a5298b652250800000000000000
+      internalID: 5919255522034472903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_158
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 173
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edeb63c2634efabc0800000000000000
+      internalID: -3769543441764663586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_159
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de283c4548042a710800000000000000
+      internalID: 1702994546201428717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_160
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 173
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 252e6219dc1d29b80800000000000000
+      internalID: -8389412475004067246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_161
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 173
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 042f6ba2177204330800000000000000
+      internalID: 3692995061445227072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_162
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 173
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960e6e678f3712d40800000000000000
+      internalID: 5557850926135828585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_163
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 174
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571a79b1bb2d15580800000000000000
+      internalID: -8840052892487933579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_164
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 160
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6662877090f1eec70800000000000000
+      internalID: 9002166828800681574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_165
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 157
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d60a00b39c3c1a80800000000000000
+      internalID: -8494848192116291888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_166
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 158
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02e4b7427bd02dc90800000000000000
+      internalID: -7146634578441318880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_167
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 159
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d83861d74ae8b0df0800000000000000
+      internalID: -212919720245558387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_168
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 158
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6926cd5d486a49470800000000000000
+      internalID: 8400522294406701718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_169
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 43
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc54974cb6b359b40800000000000000
+      internalID: 5446324658418304461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_170
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 39
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0ed4d9832425b230800000000000000
+      internalID: 3653866407735909898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_171
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 79
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1dd78b6ec7d3e10800000000000000
+      internalID: 2179035125096763869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_172
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 83
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d782c2153fd1c2e10800000000000000
+      internalID: 2174145650989213821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_173
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 83
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64078549023dbed60800000000000000
+      internalID: 7920656506542387270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_174
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 83
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b6adcf1fdf20790800000000000000
+      internalID: -7565205208257893594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_175
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 84
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0e02457eaba1d40800000000000000
+      internalID: 5555958593026580663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_176
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 84
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f74bff013e0cf40800000000000000
+      internalID: 5746842786673753884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_177
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 85
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f10032ae39bfb480800000000000000
+      internalID: -8881176261491162638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_178
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 84
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0557149844d3d140800000000000000
+      internalID: 4743368240738555147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_179
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 85
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ca8d972c8300fa40800000000000000
+      internalID: 5399819853712165570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_180
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 85
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82bf6bbf609889be0800000000000000
+      internalID: -1470274615250584792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_181
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 83
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cf6559196704db0800000000000000
+      internalID: -4809714034383848307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_182
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 76
+        width: 69
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41248c92d5d549820800000000000000
+      internalID: 2924064712784626196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_183
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 20
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07e89f682cf12c020800000000000000
+      internalID: 2360484075044179568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_184
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 24
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3da17374d595a50800000000000000
+      internalID: 6510337296789328821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_185
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 31
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65032797ce85c0980800000000000000
+      internalID: -8571378218119843754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_186
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 32
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3575b6e8fd572bc0800000000000000
+      internalID: -3807971636314540740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_187
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 41
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f4fb0e3763c1c630800000000000000
+      internalID: 3945649596743283958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_188
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 42
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2d53a4dec74d3b0800000000000000
+      internalID: -5488624687263657291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_189
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 27
+        width: 35
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a0c7221a7d022e80800000000000000
+      internalID: -8204980753173856096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_190
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 29
+        width: 33
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e7107ebe208df960800000000000000
+      internalID: 7637401481342097377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_191
+      rect:
+        serializedVersion: 2
+        x: 757
+        y: 32
+        width: 37
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adfe52a120cff39e0800000000000000
+      internalID: -1639314653380743206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_192
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 28
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b92d92fe2a87b8c20800000000000000
+      internalID: 3209791800624140955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_193
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 29
+        width: 33
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a45efa9150eb3210800000000000000
+      internalID: 1313890357405963425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_194
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c95b5fcf4d6063f90800000000000000
+      internalID: -6974379461089839716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Blood_angels_195
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 4
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7cc369282fafaa00800000000000000
+      internalID: 770026648331603071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

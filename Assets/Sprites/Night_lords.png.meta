@@ -1,0 +1,860 @@
+fileFormatVersion: 2
+guid: 16afe919000c697488cbd89029ff69a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -9166048261728519978
+    second: Night_lords_0
+  - first:
+      213: 4199707740723429916
+    second: Night_lords_1
+  - first:
+      213: -7273185569348805198
+    second: Night_lords_2
+  - first:
+      213: 2811946957747478928
+    second: Night_lords_3
+  - first:
+      213: -5040863407185513979
+    second: Night_lords_4
+  - first:
+      213: -5174698088814185421
+    second: Night_lords_5
+  - first:
+      213: 6834285530659618292
+    second: Night_lords_6
+  - first:
+      213: -3544820786009054822
+    second: Night_lords_7
+  - first:
+      213: -7872585359171037963
+    second: Night_lords_8
+  - first:
+      213: -3184632441136422528
+    second: Night_lords_9
+  - first:
+      213: -4215508519867973085
+    second: Night_lords_10
+  - first:
+      213: 6609425656294616960
+    second: Night_lords_11
+  - first:
+      213: -7315924231137136238
+    second: Night_lords_12
+  - first:
+      213: -3500690989290635338
+    second: Night_lords_13
+  - first:
+      213: 4725059626879644818
+    second: Night_lords_14
+  - first:
+      213: 6201888471590257899
+    second: Night_lords_15
+  - first:
+      213: 5687625624061224727
+    second: Night_lords_16
+  - first:
+      213: -9066174593265642020
+    second: Night_lords_17
+  - first:
+      213: -7913206142692850500
+    second: Night_lords_18
+  - first:
+      213: 6754154201678059193
+    second: Night_lords_19
+  - first:
+      213: 5012456201388125329
+    second: Night_lords_20
+  - first:
+      213: -5699442617557430268
+    second: Night_lords_21
+  - first:
+      213: -8753373398337024556
+    second: Night_lords_22
+  - first:
+      213: 67026869509512027
+    second: Night_lords_23
+  - first:
+      213: -2019526087105320986
+    second: Night_lords_24
+  - first:
+      213: -2818200126076857295
+    second: Night_lords_25
+  - first:
+      213: 6910084971192065959
+    second: Night_lords_26
+  - first:
+      213: -1169393946412590639
+    second: Night_lords_27
+  - first:
+      213: -2462520434017646988
+    second: Night_lords_28
+  - first:
+      213: -5332697270268356048
+    second: Night_lords_29
+  - first:
+      213: 3637860991191263928
+    second: Night_lords_30
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Night_lords_0
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 401
+        width: 50
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d8b5957ba7abc080800000000000000
+      internalID: -9166048261728519978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_1
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 394
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c12474e60fb584a30800000000000000
+      internalID: 4199707740723429916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 402
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd97797244701b90800000000000000
+      internalID: -7273185569348805198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_3
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 415
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09167c71cda060720800000000000000
+      internalID: 2811946957747478928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_4
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 414
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 502317550714b0ab0800000000000000
+      internalID: -5040863407185513979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 414
+        width: 35
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33476544187cf28b0800000000000000
+      internalID: -5174698088814185421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 414
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fdfe840b7248de50800000000000000
+      internalID: 6834285530659618292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_7
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 413
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a916281c6444ecec0800000000000000
+      internalID: -3544820786009054822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_8
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 322
+        width: 76
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f45baa9355feb290800000000000000
+      internalID: -7872585359171037963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_9
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 333
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 081e0edeaa9edc3d0800000000000000
+      internalID: -3184632441136422528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_10
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 329
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32203adf5518f75c0800000000000000
+      internalID: -4215508519867973085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_11
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 365
+        width: 33
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f2bccbd9569bb50800000000000000
+      internalID: 6609425656294616960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_12
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 364
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291f5675cad987a90800000000000000
+      internalID: -7315924231137136238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_13
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 364
+        width: 34
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfbbeab71c0b6fc0800000000000000
+      internalID: -3500690989290635338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_14
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 363
+        width: 34
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29473ba32b8c29140800000000000000
+      internalID: 4725059626879644818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_15
+      rect:
+        serializedVersion: 2
+        x: 507
+        y: 363
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be44ab5b4b8811650800000000000000
+      internalID: 6201888471590257899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_16
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 300
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7172499ee518eee40800000000000000
+      internalID: 5687625624061224727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_17
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 273
+        width: 53
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd5dab8fd3a7e2280800000000000000
+      internalID: -9066174593265642020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_18
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 311
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb48a5e60f4ae2290800000000000000
+      internalID: -7913206142692850500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_19
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 308
+        width: 49
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b69b3d16739bbd50800000000000000
+      internalID: 6754154201678059193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_20
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 249
+        width: 70
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19c61f7ab52df8540800000000000000
+      internalID: 5012456201388125329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 273
+        width: 51
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40054c2e22387e0b0800000000000000
+      internalID: -5699442617557430268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_22
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 43
+        width: 155
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dd84c58545c58680800000000000000
+      internalID: -8753373398337024556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_23
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 201
+        width: 40
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b558b25902ee000800000000000000
+      internalID: 67026869509512027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_24
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 166
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e7e37349b339f3e0800000000000000
+      internalID: -2019526087105320986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_25
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 207
+        width: 43
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1345a33baedb3e8d0800000000000000
+      internalID: -2818200126076857295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_26
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 168
+        width: 41
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7af1bab8bad85ef50800000000000000
+      internalID: 6910084971192065959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_27
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 203
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d9d595c66a75cfe0800000000000000
+      internalID: -1169393946412590639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_28
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 23
+        width: 91
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 476cc3656be53ddd0800000000000000
+      internalID: -2462520434017646988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_29
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 24
+        width: 98
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03a95f626147ef5b0800000000000000
+      internalID: -5332697270268356048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Night_lords_30
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 30
+        width: 77
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8baa43a1c474c7230800000000000000
+      internalID: 3637860991191263928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

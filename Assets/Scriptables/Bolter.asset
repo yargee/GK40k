@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5cbe5f79f1529489fecc9a40d3bbb0, type: 3}
+  m_Name: Bolter
+  m_EditorClassIdentifier: 
+  _name: Bolter
+  _id: 0
+  _bulletTemplate: {fileID: 6803162034466898176, guid: 3641dcac0b9b2a44793c1ac2546b262c, type: 3}
+  _rateOfFire: 0.15
+  _scatter: 0.3
+  _range: 12

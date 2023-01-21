@@ -1,0 +1,4532 @@
+fileFormatVersion: 2
+guid: 224249db408d6da419214df1f8f2ecf5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8029120565271485496
+    second: Space_wolfes_0
+  - first:
+      213: 1010192510902301592
+    second: Space_wolfes_1
+  - first:
+      213: 1291317062410573730
+    second: Space_wolfes_2
+  - first:
+      213: 5607313810323081721
+    second: Space_wolfes_3
+  - first:
+      213: -8225349304593966804
+    second: Space_wolfes_4
+  - first:
+      213: 9176866127214779729
+    second: Space_wolfes_5
+  - first:
+      213: -1409571965701213599
+    second: Space_wolfes_6
+  - first:
+      213: 3026256029117171588
+    second: Space_wolfes_7
+  - first:
+      213: 1129251267809228563
+    second: Space_wolfes_8
+  - first:
+      213: -746537925915873496
+    second: Space_wolfes_9
+  - first:
+      213: -9038685057821094532
+    second: Space_wolfes_10
+  - first:
+      213: -8409318726749654888
+    second: Space_wolfes_11
+  - first:
+      213: 2946353304747126252
+    second: Space_wolfes_12
+  - first:
+      213: -6998713367335407138
+    second: Space_wolfes_13
+  - first:
+      213: -7787592046418893114
+    second: Space_wolfes_14
+  - first:
+      213: -844317905719143391
+    second: Space_wolfes_15
+  - first:
+      213: 5687019495529191789
+    second: Space_wolfes_16
+  - first:
+      213: -6084430792968179332
+    second: Space_wolfes_17
+  - first:
+      213: -250704208113158823
+    second: Space_wolfes_18
+  - first:
+      213: -3524587033397063319
+    second: Space_wolfes_19
+  - first:
+      213: 7974697594935241942
+    second: Space_wolfes_20
+  - first:
+      213: -8783311152838298870
+    second: Space_wolfes_21
+  - first:
+      213: -4049962259938572439
+    second: Space_wolfes_22
+  - first:
+      213: -3603313444661749596
+    second: Space_wolfes_23
+  - first:
+      213: 253308339932500204
+    second: Space_wolfes_24
+  - first:
+      213: 8939523700400796342
+    second: Space_wolfes_25
+  - first:
+      213: -5885009427804394348
+    second: Space_wolfes_26
+  - first:
+      213: -8177918870647249670
+    second: Space_wolfes_27
+  - first:
+      213: 3504134001008957487
+    second: Space_wolfes_28
+  - first:
+      213: -714797132864769002
+    second: Space_wolfes_29
+  - first:
+      213: 2527042751775003318
+    second: Space_wolfes_30
+  - first:
+      213: -4461542671170547320
+    second: Space_wolfes_31
+  - first:
+      213: 7778127224162562256
+    second: Space_wolfes_32
+  - first:
+      213: 9067849292428223099
+    second: Space_wolfes_33
+  - first:
+      213: 5305743174795434995
+    second: Space_wolfes_34
+  - first:
+      213: 3433490209271078605
+    second: Space_wolfes_35
+  - first:
+      213: -1953310539792488081
+    second: Space_wolfes_36
+  - first:
+      213: 1561909040877826190
+    second: Space_wolfes_37
+  - first:
+      213: 3891318875473895676
+    second: Space_wolfes_38
+  - first:
+      213: 991563578940782002
+    second: Space_wolfes_39
+  - first:
+      213: 9129602659258928616
+    second: Space_wolfes_40
+  - first:
+      213: -7444753841683905595
+    second: Space_wolfes_41
+  - first:
+      213: 8360690635241495966
+    second: Space_wolfes_42
+  - first:
+      213: 5861813259252280966
+    second: Space_wolfes_43
+  - first:
+      213: -9145065993089523959
+    second: Space_wolfes_44
+  - first:
+      213: 7894698274670608372
+    second: Space_wolfes_45
+  - first:
+      213: -2434506943080224645
+    second: Space_wolfes_46
+  - first:
+      213: 3745029882192743511
+    second: Space_wolfes_47
+  - first:
+      213: -386359397841057981
+    second: Space_wolfes_48
+  - first:
+      213: -7370597864198188953
+    second: Space_wolfes_49
+  - first:
+      213: 8355840979513460766
+    second: Space_wolfes_50
+  - first:
+      213: 1469180123462109252
+    second: Space_wolfes_51
+  - first:
+      213: 4481471201370983502
+    second: Space_wolfes_52
+  - first:
+      213: -1134944524185830398
+    second: Space_wolfes_53
+  - first:
+      213: -420584119733741392
+    second: Space_wolfes_54
+  - first:
+      213: -8043824652845170661
+    second: Space_wolfes_55
+  - first:
+      213: -6889146090472513047
+    second: Space_wolfes_56
+  - first:
+      213: 6709398037964811480
+    second: Space_wolfes_57
+  - first:
+      213: -7116716683382640782
+    second: Space_wolfes_58
+  - first:
+      213: -5074101593981491892
+    second: Space_wolfes_59
+  - first:
+      213: -6141819095506136347
+    second: Space_wolfes_60
+  - first:
+      213: -4398392811225252684
+    second: Space_wolfes_61
+  - first:
+      213: -8751181340170195937
+    second: Space_wolfes_62
+  - first:
+      213: -3347247057547395197
+    second: Space_wolfes_63
+  - first:
+      213: 5297455132864130827
+    second: Space_wolfes_64
+  - first:
+      213: 1251142465200966674
+    second: Space_wolfes_65
+  - first:
+      213: 4929611767697101219
+    second: Space_wolfes_66
+  - first:
+      213: -6374276120785166160
+    second: Space_wolfes_67
+  - first:
+      213: -2809857798972933874
+    second: Space_wolfes_68
+  - first:
+      213: 6032071562170160574
+    second: Space_wolfes_69
+  - first:
+      213: 2893449210733927886
+    second: Space_wolfes_70
+  - first:
+      213: -1160887590484852036
+    second: Space_wolfes_71
+  - first:
+      213: 5379638456525940981
+    second: Space_wolfes_72
+  - first:
+      213: 6540848927283908380
+    second: Space_wolfes_73
+  - first:
+      213: -8151828261677459715
+    second: Space_wolfes_74
+  - first:
+      213: 1258694930140060706
+    second: Space_wolfes_75
+  - first:
+      213: -8262518947096557353
+    second: Space_wolfes_76
+  - first:
+      213: -2694365276513398395
+    second: Space_wolfes_77
+  - first:
+      213: -5872984856670682011
+    second: Space_wolfes_78
+  - first:
+      213: 557282348300346401
+    second: Space_wolfes_79
+  - first:
+      213: -600146428382666917
+    second: Space_wolfes_80
+  - first:
+      213: -7034878660904756846
+    second: Space_wolfes_81
+  - first:
+      213: -1655522798004188151
+    second: Space_wolfes_82
+  - first:
+      213: 9140345794844980020
+    second: Space_wolfes_83
+  - first:
+      213: -245558281875350804
+    second: Space_wolfes_84
+  - first:
+      213: -4447266967343291992
+    second: Space_wolfes_85
+  - first:
+      213: -6031323953279141732
+    second: Space_wolfes_86
+  - first:
+      213: -2875280236004107526
+    second: Space_wolfes_87
+  - first:
+      213: 3429557390870684182
+    second: Space_wolfes_88
+  - first:
+      213: -1944447641222272794
+    second: Space_wolfes_89
+  - first:
+      213: 3657138642457092788
+    second: Space_wolfes_90
+  - first:
+      213: 9126462901265898463
+    second: Space_wolfes_91
+  - first:
+      213: -5701750226607266908
+    second: Space_wolfes_92
+  - first:
+      213: -5960398104991629979
+    second: Space_wolfes_93
+  - first:
+      213: -8048038700875180142
+    second: Space_wolfes_94
+  - first:
+      213: 7164077910283988492
+    second: Space_wolfes_95
+  - first:
+      213: -9105637419781604506
+    second: Space_wolfes_96
+  - first:
+      213: -6023144224940755323
+    second: Space_wolfes_97
+  - first:
+      213: 8466675379477467551
+    second: Space_wolfes_98
+  - first:
+      213: 4239422869039114298
+    second: Space_wolfes_99
+  - first:
+      213: 5567241936926931666
+    second: Space_wolfes_100
+  - first:
+      213: 2224783331631284220
+    second: Space_wolfes_101
+  - first:
+      213: -4837901853965719415
+    second: Space_wolfes_102
+  - first:
+      213: -2664167630536326096
+    second: Space_wolfes_103
+  - first:
+      213: 7350617682101705074
+    second: Space_wolfes_104
+  - first:
+      213: 1296699199802147874
+    second: Space_wolfes_105
+  - first:
+      213: -5567452933636619008
+    second: Space_wolfes_106
+  - first:
+      213: -6260124702666201241
+    second: Space_wolfes_107
+  - first:
+      213: 6297073788990360432
+    second: Space_wolfes_108
+  - first:
+      213: -3506868343565750061
+    second: Space_wolfes_109
+  - first:
+      213: 4043406071135648100
+    second: Space_wolfes_110
+  - first:
+      213: 5696592886074088725
+    second: Space_wolfes_111
+  - first:
+      213: -892614921915752154
+    second: Space_wolfes_112
+  - first:
+      213: 237691422476850642
+    second: Space_wolfes_113
+  - first:
+      213: -1424000629019488879
+    second: Space_wolfes_114
+  - first:
+      213: 2241846484613435375
+    second: Space_wolfes_115
+  - first:
+      213: -7233182456354555899
+    second: Space_wolfes_116
+  - first:
+      213: -8397265881385055604
+    second: Space_wolfes_117
+  - first:
+      213: -8841706781136947190
+    second: Space_wolfes_118
+  - first:
+      213: 8487223218829830685
+    second: Space_wolfes_119
+  - first:
+      213: -5231184263235665910
+    second: Space_wolfes_120
+  - first:
+      213: -5631274115493790872
+    second: Space_wolfes_121
+  - first:
+      213: -5876269190219227362
+    second: Space_wolfes_122
+  - first:
+      213: -9109347102409249311
+    second: Space_wolfes_123
+  - first:
+      213: 8190267712733174838
+    second: Space_wolfes_124
+  - first:
+      213: -3843911448379064384
+    second: Space_wolfes_125
+  - first:
+      213: -3168917838846351506
+    second: Space_wolfes_126
+  - first:
+      213: 4253542022973027961
+    second: Space_wolfes_127
+  - first:
+      213: 942914577287660535
+    second: Space_wolfes_128
+  - first:
+      213: -7935702989168021927
+    second: Space_wolfes_129
+  - first:
+      213: 5212551313709884137
+    second: Space_wolfes_130
+  - first:
+      213: 2879557731173038076
+    second: Space_wolfes_131
+  - first:
+      213: -8094615084969971787
+    second: Space_wolfes_132
+  - first:
+      213: 1644224967422017734
+    second: Space_wolfes_133
+  - first:
+      213: -595327536500663400
+    second: Space_wolfes_134
+  - first:
+      213: -50465525196460106
+    second: Space_wolfes_135
+  - first:
+      213: 5473514956165521401
+    second: Space_wolfes_136
+  - first:
+      213: -5677691943825517475
+    second: Space_wolfes_137
+  - first:
+      213: -6110134371211872643
+    second: Space_wolfes_138
+  - first:
+      213: -6806021712299266226
+    second: Space_wolfes_139
+  - first:
+      213: 7409758163779590648
+    second: Space_wolfes_140
+  - first:
+      213: 2701778878691546842
+    second: Space_wolfes_141
+  - first:
+      213: -1655726003154122697
+    second: Space_wolfes_142
+  - first:
+      213: -5861378802519378385
+    second: Space_wolfes_143
+  - first:
+      213: -5058169218585179563
+    second: Space_wolfes_144
+  - first:
+      213: 8500025884236924773
+    second: Space_wolfes_145
+  - first:
+      213: -7072805623607506137
+    second: Space_wolfes_146
+  - first:
+      213: 2565340155903320392
+    second: Space_wolfes_147
+  - first:
+      213: 2765780473506586920
+    second: Space_wolfes_148
+  - first:
+      213: 3148765887296255881
+    second: Space_wolfes_149
+  - first:
+      213: -1081238505377745759
+    second: Space_wolfes_150
+  - first:
+      213: -3514998417330966302
+    second: Space_wolfes_151
+  - first:
+      213: 4974531936751358051
+    second: Space_wolfes_152
+  - first:
+      213: 3620070870627905814
+    second: Space_wolfes_153
+  - first:
+      213: -5847620972915851736
+    second: Space_wolfes_154
+  - first:
+      213: -3140292188081199021
+    second: Space_wolfes_155
+  - first:
+      213: -7232404477708035315
+    second: Space_wolfes_156
+  - first:
+      213: 5962996288718515518
+    second: Space_wolfes_157
+  - first:
+      213: -600513234939991629
+    second: Space_wolfes_158
+  - first:
+      213: -3287180861788637673
+    second: Space_wolfes_159
+  - first:
+      213: 4368691564048877196
+    second: Space_wolfes_160
+  - first:
+      213: 5896740696092679352
+    second: Space_wolfes_161
+  - first:
+      213: 7911526110075645738
+    second: Space_wolfes_162
+  - first:
+      213: -5537699023436325056
+    second: Space_wolfes_163
+  - first:
+      213: -7204743613109842140
+    second: Space_wolfes_164
+  - first:
+      213: 615682996228939042
+    second: Space_wolfes_165
+  - first:
+      213: -396372872425457389
+    second: Space_wolfes_166
+  - first:
+      213: -3108504122574281094
+    second: Space_wolfes_167
+  - first:
+      213: -1997376890420758057
+    second: Space_wolfes_168
+  - first:
+      213: -1114026688570622441
+    second: Space_wolfes_169
+  - first:
+      213: 5929731250812701581
+    second: Space_wolfes_170
+  - first:
+      213: -4730084661132130412
+    second: Space_wolfes_171
+  - first:
+      213: -2888693249874821711
+    second: Space_wolfes_172
+  - first:
+      213: -3866483416487393573
+    second: Space_wolfes_173
+  - first:
+      213: -817478798484482740
+    second: Space_wolfes_174
+  - first:
+      213: 570451981048779605
+    second: Space_wolfes_175
+  - first:
+      213: 2863422051840087539
+    second: Space_wolfes_176
+  - first:
+      213: -4484648178841191359
+    second: Space_wolfes_177
+  - first:
+      213: 4748171394179999839
+    second: Space_wolfes_178
+  - first:
+      213: 7278676544143557337
+    second: Space_wolfes_179
+  - first:
+      213: -5213963509071722907
+    second: Space_wolfes_180
+  - first:
+      213: -1763292557665948945
+    second: Space_wolfes_181
+  - first:
+      213: -7362667284458616148
+    second: Space_wolfes_182
+  - first:
+      213: 5449075388137202682
+    second: Space_wolfes_183
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Space_wolfes_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 620
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c3a530d265d29090800000000000000
+      internalID: -8029120565271485496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 620
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89377178cbce40e00800000000000000
+      internalID: 1010192510902301592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 621
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a7126dc60eabe110800000000000000
+      internalID: 1291317062410573730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_3
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 620
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f90370a33e21dd40800000000000000
+      internalID: 5607313810323081721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 615
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c299b222360b9dd80800000000000000
+      internalID: -8225349304593966804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_5
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 614
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d93ff1f17ca5f70800000000000000
+      internalID: 9176866127214779729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_6
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 613
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162b703f3c1307ce0800000000000000
+      internalID: -1409571965701213599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_7
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 613
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 487c9ee13db6ff920800000000000000
+      internalID: 3026256029117171588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_8
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 613
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317bde78b08ebaf00800000000000000
+      internalID: 1129251267809228563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_9
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 612
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f6d6236b3c3a5f0800000000000000
+      internalID: -746537925915873496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_10
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 634
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d41f334d3209280800000000000000
+      internalID: -9038685057821094532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_11
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 636
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890fb092c291c4b80800000000000000
+      internalID: -8409318726749654888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_12
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 612
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ced204068bc83e820800000000000000
+      internalID: 2946353304747126252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_13
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 612
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed1f13fe5439fde90800000000000000
+      internalID: -6998713367335407138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_14
+      rect:
+        serializedVersion: 2
+        x: 1012
+        y: 612
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c66b815b4aece390800000000000000
+      internalID: -7787592046418893114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_15
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 513
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124db1096516844f0800000000000000
+      internalID: -844317905719143391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_16
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 576
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d691dbd991a5cee40800000000000000
+      internalID: 5687019495529191789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_17
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 576
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71fea43e62cf8ba0800000000000000
+      internalID: -6084430792968179332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_18
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 574
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95538bbd9d1558cf0800000000000000
+      internalID: -250704208113158823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_19
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 575
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9619b6664c6261fc0800000000000000
+      internalID: -3524587033397063319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_20
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 574
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dce649f531dbae60800000000000000
+      internalID: 7974697594935241942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_21
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 575
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a03b85fda096b1680800000000000000
+      internalID: -8783311152838298870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_22
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 577
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9678f9e38c4abc7c0800000000000000
+      internalID: -4049962259938572439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_23
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 575
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a81c8463857efdc0800000000000000
+      internalID: -3603313444661749596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_24
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 576
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce01254d79ee38300800000000000000
+      internalID: 253308339932500204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_25
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 575
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b2339f11719f0c70800000000000000
+      internalID: 8939523700400796342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_26
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 576
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49ce4e30b1f345ea0800000000000000
+      internalID: -5885009427804394348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_27
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 576
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af46b199d12328e80800000000000000
+      internalID: -8177918870647249670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_28
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 576
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d187ee4f21a030800000000000000
+      internalID: 3504134001008957487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_29
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 577
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 614b0297bc78416f0800000000000000
+      internalID: -714797132864769002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_30
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 576
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b256cf6efbd11320800000000000000
+      internalID: 2527042751775003318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_31
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 575
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881d1ae249a6512c0800000000000000
+      internalID: -4461542671170547320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 574
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d03106008571fb60800000000000000
+      internalID: 7778127224162562256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_33
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 575
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7226ff43e877dd70800000000000000
+      internalID: 9067849292428223099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_34
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 576
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fb92237e49c1a940800000000000000
+      internalID: 5305743174795434995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_35
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 576
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dce5267672536af20800000000000000
+      internalID: 3433490209271078605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_36
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 509
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6964a3c96274e4e0800000000000000
+      internalID: -1953310539792488081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_37
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 529
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e807ef05ff30da510800000000000000
+      internalID: 1561909040877826190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_38
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 529
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf0e46076edb00630800000000000000
+      internalID: 3891318875473895676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 529
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5fafe42ddb2cd00800000000000000
+      internalID: 991563578940782002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_40
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 530
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed07957f3dd2be70800000000000000
+      internalID: 9129602659258928616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_41
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 524
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c3c43233dbeea890800000000000000
+      internalID: -7444753841683905595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_42
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 522
+        width: 28
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9d118ef5d3270470800000000000000
+      internalID: 8360690635241495966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 521
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68e28612a18595150800000000000000
+      internalID: 5861813259252280966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_44
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 523
+        width: 31
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90fd4629ee2361180800000000000000
+      internalID: -9145065993089523959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_45
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 512
+        width: 50
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ff71aeb04a9f8d60800000000000000
+      internalID: 7894698274670608372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_46
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 456
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b782b7675d4e63ed0800000000000000
+      internalID: -2434506943080224645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_47
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 456
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75c4259f5d409f330800000000000000
+      internalID: 3745029882192743511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_48
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 536
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 347cc08bc2063aaf0800000000000000
+      internalID: -386359397841057981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_49
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 458
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 760d63a2b4066b990800000000000000
+      internalID: -7370597864198188953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_50
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 458
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e184d878919e5f370800000000000000
+      internalID: 8355840979513460766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_51
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 457
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 448060ac983936410800000000000000
+      internalID: 1469180123462109252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_52
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 461
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4c4cd45052613e30800000000000000
+      internalID: 4481471201370983502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_53
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 461
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cf02ce7fddf30f0800000000000000
+      internalID: -1134944524185830398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_54
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 461
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b89911b8f8c92af0800000000000000
+      internalID: -420584119733741392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_55
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 462
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1042a3a8189e5090800000000000000
+      internalID: -8043824652845170661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_56
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 462
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e16d978126d460a0800000000000000
+      internalID: -6889146090472513047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_57
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 463
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dc6895b7f19c1d50800000000000000
+      internalID: 6709398037964811480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_58
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 462
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fa1e7e1e75c3d90800000000000000
+      internalID: -7116716683382640782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_59
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 463
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c456d78eb7b2599b0800000000000000
+      internalID: -5074101593981491892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_60
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 463
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e255a9c210e3caa0800000000000000
+      internalID: -6141819095506136347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_61
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 398
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc7948ba05c5f2c0800000000000000
+      internalID: -4398392811225252684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_62
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 402
+        width: 56
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ce026dfee8d8680800000000000000
+      internalID: -8751181340170195937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_63
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 409
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f7a6f19803c81d0800000000000000
+      internalID: -3347247057547395197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_64
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 410
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0fafef4067548940800000000000000
+      internalID: 5297455132864130827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_65
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 421
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21cc5b97173fc5110800000000000000
+      internalID: 1251142465200966674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_66
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 420
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a1db26d8cf796440800000000000000
+      internalID: 4929611767697101219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_67
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 422
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b06858f3a50a87a0800000000000000
+      internalID: -6374276120785166160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_68
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 421
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e097bd618316109d0800000000000000
+      internalID: -2809857798972933874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_69
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 422
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb553e2602936b350800000000000000
+      internalID: 6032071562170160574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_70
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 421
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecd1e6d1ab8972820800000000000000
+      internalID: 2893449210733927886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_71
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 419
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2cdf813e2b3efe0800000000000000
+      internalID: -1160887590484852036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_72
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 421
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f862457ca058aa40800000000000000
+      internalID: 5379638456525940981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_73
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 419
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f8048c173c5ca50800000000000000
+      internalID: 6540848927283908380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_74
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 420
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df699b0e263eede80800000000000000
+      internalID: -8151828261677459715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_75
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 420
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22c559fbe58c77110800000000000000
+      internalID: 1258694930140060706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_76
+      rect:
+        serializedVersion: 2
+        x: 883
+        y: 421
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d800685bc2a55d80800000000000000
+      internalID: -8262518947096557353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_77
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 419
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 581954e6e01bb9ad0800000000000000
+      internalID: -2694365276513398395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_78
+      rect:
+        serializedVersion: 2
+        x: 946
+        y: 419
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56445e6a367fe7ea0800000000000000
+      internalID: -5872984856670682011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_79
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 429
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 124a90ad75ddbb700800000000000000
+      internalID: 557282348300346401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_80
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 352
+        width: 102
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5f180bc00adba7f0800000000000000
+      internalID: -600146428382666917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_81
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 405
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 299dbca51271f5e90800000000000000
+      internalID: -7034878660904756846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_82
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 405
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c466b59c66609e0800000000000000
+      internalID: -1655522798004188151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_83
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 405
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43378f1a21809de70800000000000000
+      internalID: 9140345794844980020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_84
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 385
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cea1a2d2b0a979cf0800000000000000
+      internalID: -245558281875350804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_85
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 384
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1ac2e71422842c0800000000000000
+      internalID: -4447266967343291992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_86
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 382
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98fd7fd1de6c4ca0800000000000000
+      internalID: -6031323953279141732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_87
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 383
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afa1647fbd3f818d0800000000000000
+      internalID: -2875280236004107526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_88
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 382
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 612a9a3c64c389f20800000000000000
+      internalID: 3429557390870684182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_89
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 383
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8a9942c2fe305e0800000000000000
+      internalID: -1944447641222272794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_90
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 383
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b2620e0834c0c230800000000000000
+      internalID: 3657138642457092788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_91
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 383
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdb1cb597a5b7ae70800000000000000
+      internalID: 9126462901265898463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_92
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 381
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a32219c0605fd0b0800000000000000
+      internalID: -5701750226607266908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_93
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 382
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56dff08c089684da0800000000000000
+      internalID: -5960398104991629979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 351
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2971dbf117f9f4090800000000000000
+      internalID: -8048038700875180142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_95
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 351
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0e23b907eaeb6360800000000000000
+      internalID: 7164077910283988492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_96
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 373
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66bb96ca20742a180800000000000000
+      internalID: -9105637419781604506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_97
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 373
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586f5794d3e796ca0800000000000000
+      internalID: -6023144224940755323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_98
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 372
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91dc46366caf7570800000000000000
+      internalID: 8466675379477467551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_99
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 374
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a386eb153a475da30800000000000000
+      internalID: 4239422869039114298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_100
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 373
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daff2d8b01d24d40800000000000000
+      internalID: 5567241936926931666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_101
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 373
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cffb71817a400ee10800000000000000
+      internalID: 2224783331631284220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_102
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 373
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9886b2865e15cdcb0800000000000000
+      internalID: -4837901853965719415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_103
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 034c9c7c7a9f60bd0800000000000000
+      internalID: -2664167630536326096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_104
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 279906d26d3a20660800000000000000
+      internalID: 7350617682101705074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_105
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 387
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2248db05d0dcef110800000000000000
+      internalID: 1296699199802147874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_106
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 383
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00502e2fd0f6cb2b0800000000000000
+      internalID: -5567452933636619008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_107
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 352
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 767eeef10c19f19a0800000000000000
+      internalID: -6260124702666201241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_108
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 351
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b813d6f33b36750800000000000000
+      internalID: 6297073788990360432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_109
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 366
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d073bb52d9155fc0800000000000000
+      internalID: -3506868343565750061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_110
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 366
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469b2b816601d1830800000000000000
+      internalID: 4043406071135648100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_111
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 366
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51d967c4c0d5e0f40800000000000000
+      internalID: 5696592886074088725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_112
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 348
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621aff1357bcc93f0800000000000000
+      internalID: -892614921915752154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_113
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 346
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d5d3e2e6137c4300800000000000000
+      internalID: 237691422476850642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_114
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 348
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19d4c5bf8feec3ce0800000000000000
+      internalID: -1424000629019488879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_115
+      rect:
+        serializedVersion: 2
+        x: 749
+        y: 346
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fef875cff73ac1f10800000000000000
+      internalID: 2241846484613435375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_116
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 347
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508366501e29e9b90800000000000000
+      internalID: -7233182456354555899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_117
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 347
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a4987eb2be67b80800000000000000
+      internalID: -8397265881385055604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_118
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 347
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a087b262782fb4580800000000000000
+      internalID: -8841706781136947190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_119
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 336
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1aaccfdc8ca8c570800000000000000
+      internalID: 8487223218829830685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_120
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 335
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a00893be0a91767b0800000000000000
+      internalID: -5231184263235665910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_121
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 335
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bf3291702b9d1b0800000000000000
+      internalID: -5631274115493790872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_122
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1f19682e4c437ea0800000000000000
+      internalID: -5876269190219227362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_123
+      rect:
+        serializedVersion: 2
+        x: 614
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eda921e219159180800000000000000
+      internalID: -9109347102409249311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_124
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 350
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63cdfc0471da9a170800000000000000
+      internalID: 8190267712733174838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_125
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 301
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cffe4357eea7aac0800000000000000
+      internalID: -3843911448379064384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_126
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 301
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e672a25e30eb504d0800000000000000
+      internalID: -3168917838846351506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_127
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 301
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976f0840fed970b30800000000000000
+      internalID: 4253542022973027961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_128
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 298
+        width: 27
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f3c4c0ffc7e51d00800000000000000
+      internalID: 942914577287660535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_129
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 298
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95e62af2d28bed190800000000000000
+      internalID: -7935702989168021927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_130
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 298
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e26c237dc3b65840800000000000000
+      internalID: 5212551313709884137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_131
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 299
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf77cccff7e36f720800000000000000
+      internalID: 2879557731173038076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_132
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 298
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bfa8d2a7762aaf80800000000000000
+      internalID: -8094615084969971787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_133
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 303
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c0840a75e571d610800000000000000
+      internalID: 1644224967422017734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_134
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 303
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b9edd72c8fcb7f0800000000000000
+      internalID: -595327536500663400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_135
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 303
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bfe2494fd5bc4ff0800000000000000
+      internalID: -50465525196460106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_136
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 302
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ff980b4ad4d5fb40800000000000000
+      internalID: 5473514956165521401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_137
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 302
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d54de204249c431b0800000000000000
+      internalID: -5677691943825517475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_138
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 300
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76f20a8921743ba0800000000000000
+      internalID: -6110134371211872643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_139
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 295
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4f6ec000572c81a0800000000000000
+      internalID: -6806021712299266226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_140
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 298
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f912a79acfb4d660800000000000000
+      internalID: 7409758163779590648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_141
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 297
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad610165395ae7520800000000000000
+      internalID: 2701778878691546842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_142
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 298
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7380f98f8fda509e0800000000000000
+      internalID: -1655726003154122697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_143
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 299
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f26f3d5b80338aea0800000000000000
+      internalID: -5861378802519378385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_144
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 301
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a4a6025e5cdc9b0800000000000000
+      internalID: -5058169218585179563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_145
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 298
+        width: 35
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5674193b18826f570800000000000000
+      internalID: 8500025884236924773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_146
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 299
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b4d7732c858dd90800000000000000
+      internalID: -7072805623607506137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_147
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 298
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841a9a0b74be99320800000000000000
+      internalID: 2565340155903320392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_148
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 297
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821621adfa6026620800000000000000
+      internalID: 2765780473506586920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_149
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 298
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 987392144e9a2bb20800000000000000
+      internalID: 3148765887296255881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_150
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 298
+        width: 29
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a43c79de4baef0f0800000000000000
+      internalID: -1081238505377745759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_151
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 298
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e07dec0097383fc0800000000000000
+      internalID: -3514998417330966302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_152
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 227
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36096e5b076190540800000000000000
+      internalID: 4974531936751358051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_153
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611f381e6431d3230800000000000000
+      internalID: 3620070870627905814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_154
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82ef93805b319dea0800000000000000
+      internalID: -5847620972915851736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_155
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3586c7694e07b64d0800000000000000
+      internalID: -3140292188081199021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_156
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 227
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0b944a427651ab90800000000000000
+      internalID: -7232404477708035315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_157
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 225
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3d2a020881d0c250800000000000000
+      internalID: 5962996288718515518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_158
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 226
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b92b7cf46c8aa7f0800000000000000
+      internalID: -600513234939991629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_159
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 227
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71630a42c669162d0800000000000000
+      internalID: -3287180861788637673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_160
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 226
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c860168c4d5b0ac30800000000000000
+      internalID: 4368691564048877196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_161
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 227
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc913bbb6e65d150800000000000000
+      internalID: 5896740696092679352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_162
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 226
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2f694e74136bcd60800000000000000
+      internalID: 7911526110075645738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_163
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 226
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fdc0304142623b0800000000000000
+      internalID: -5537699023436325056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_164
+      rect:
+        serializedVersion: 2
+        x: 877
+        y: 226
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fc2d23bdb930c90800000000000000
+      internalID: -7204743613109842140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_165
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 228
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22d597c4c685b8800800000000000000
+      internalID: 615682996228939042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_166
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 228
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319ba7cf8fccf7af0800000000000000
+      internalID: -396372872425457389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_167
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 152
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a766f1758ff5cd4d0800000000000000
+      internalID: -3108504122574281094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_168
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 110
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d975ebfc44e744e0800000000000000
+      internalID: -1997376890420758057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_169
+      rect:
+        serializedVersion: 2
+        x: 249
+        y: 109
+        width: 73
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71e717d01ae2a80f0800000000000000
+      internalID: -1114026688570622441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_170
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 171
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8b4932d723aa4250800000000000000
+      internalID: 5929731250812701581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_171
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 171
+        width: 25
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49702bfcf0d5b5eb0800000000000000
+      internalID: -4730084661132130412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_172
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 171
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd74205bcc49e7d0800000000000000
+      internalID: -2888693249874821711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_173
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 172
+        width: 25
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd6845671dd775ac0800000000000000
+      internalID: -3866483416487393573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_174
+      rect:
+        serializedVersion: 2
+        x: 492
+        y: 172
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c455bec2d5bb7a4f0800000000000000
+      internalID: -817478798484482740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_175
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 172
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55394dbed07aae700800000000000000
+      internalID: 570451981048779605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_176
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 171
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f5d2f16f2becb720800000000000000
+      internalID: 2863422051840087539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_177
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 157
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14c7195fd3453c1c0800000000000000
+      internalID: -4484648178841191359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_178
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 160
+        width: 44
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5825c2e9b4e4e140800000000000000
+      internalID: 4748171394179999839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_179
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 157
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d205a8b0cd030560800000000000000
+      internalID: 7278676544143557337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_180
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 158
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5664ee130d744a7b0800000000000000
+      internalID: -5213963509071722907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_181
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 159
+        width: 25
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fea2b39d2c68787e0800000000000000
+      internalID: -1763292557665948945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_182
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 124
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa44762d1d82d990800000000000000
+      internalID: -7362667284458616148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Space_wolfes_183
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 124
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af3ed30f1310f9b40800000000000000
+      internalID: 5449075388137202682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

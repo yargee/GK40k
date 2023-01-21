@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de5cbe5f79f1529489fecc9a40d3bbb0, type: 3}
+  m_Name: Plasma
+  m_EditorClassIdentifier: 
+  _name: Plasma
+  _id: 1
+  _bulletTemplate: {fileID: 6803162034466898176, guid: 784882cf08d7a354e9379c136c7a17ce, type: 3}
+  _rateOfFire: 1
+  _scatter: 0.1
+  _range: 10

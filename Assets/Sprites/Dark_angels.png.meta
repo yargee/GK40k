@@ -1,0 +1,4292 @@
+fileFormatVersion: 2
+guid: e502109d56374c04b80821572ff0ffef
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8440354997865915885
+    second: Dark_angels_0
+  - first:
+      213: -2485171445317316389
+    second: Dark_angels_1
+  - first:
+      213: 7706001938942637297
+    second: Dark_angels_2
+  - first:
+      213: -126008352072741061
+    second: Dark_angels_3
+  - first:
+      213: -5928309852441582840
+    second: Dark_angels_4
+  - first:
+      213: 6247984111908450828
+    second: Dark_angels_5
+  - first:
+      213: 4042668407923266779
+    second: Dark_angels_6
+  - first:
+      213: 2545445807490540239
+    second: Dark_angels_7
+  - first:
+      213: -8503197282503775605
+    second: Dark_angels_8
+  - first:
+      213: -800656742944152667
+    second: Dark_angels_9
+  - first:
+      213: -1016418419047806421
+    second: Dark_angels_10
+  - first:
+      213: 3428820458363060424
+    second: Dark_angels_11
+  - first:
+      213: 8063929259608930506
+    second: Dark_angels_12
+  - first:
+      213: 722916389177600953
+    second: Dark_angels_13
+  - first:
+      213: 2418739538148452865
+    second: Dark_angels_14
+  - first:
+      213: 4218447379272498113
+    second: Dark_angels_15
+  - first:
+      213: -3495199426778409819
+    second: Dark_angels_16
+  - first:
+      213: -7495610047495790860
+    second: Dark_angels_17
+  - first:
+      213: -8122131065243102446
+    second: Dark_angels_18
+  - first:
+      213: 2741137699351079403
+    second: Dark_angels_19
+  - first:
+      213: -5984147104365305443
+    second: Dark_angels_20
+  - first:
+      213: 2717085678761935234
+    second: Dark_angels_21
+  - first:
+      213: 6374173794785425693
+    second: Dark_angels_22
+  - first:
+      213: 1392672856948310267
+    second: Dark_angels_23
+  - first:
+      213: -2196597236373927482
+    second: Dark_angels_24
+  - first:
+      213: -7830347298982563905
+    second: Dark_angels_25
+  - first:
+      213: -1269077364826934916
+    second: Dark_angels_26
+  - first:
+      213: 7840956715584664352
+    second: Dark_angels_27
+  - first:
+      213: -4030926772114085424
+    second: Dark_angels_28
+  - first:
+      213: -2733399681342104005
+    second: Dark_angels_29
+  - first:
+      213: -2775430647240206180
+    second: Dark_angels_30
+  - first:
+      213: 4172243867912509594
+    second: Dark_angels_31
+  - first:
+      213: -5786222820104692193
+    second: Dark_angels_32
+  - first:
+      213: -7947590036507201190
+    second: Dark_angels_33
+  - first:
+      213: -4790264823222769316
+    second: Dark_angels_34
+  - first:
+      213: 2529304738821500526
+    second: Dark_angels_35
+  - first:
+      213: 6933185726696907135
+    second: Dark_angels_36
+  - first:
+      213: 4729565179699975573
+    second: Dark_angels_37
+  - first:
+      213: 5064501758968027794
+    second: Dark_angels_38
+  - first:
+      213: -4465039097277990000
+    second: Dark_angels_39
+  - first:
+      213: 8543110405444060063
+    second: Dark_angels_40
+  - first:
+      213: 5505798417191489339
+    second: Dark_angels_41
+  - first:
+      213: -28723550590982376
+    second: Dark_angels_42
+  - first:
+      213: 6218849038027088595
+    second: Dark_angels_43
+  - first:
+      213: -615268803267647097
+    second: Dark_angels_44
+  - first:
+      213: 7776801542018888118
+    second: Dark_angels_45
+  - first:
+      213: 6978673914141763446
+    second: Dark_angels_46
+  - first:
+      213: 8206673519726303019
+    second: Dark_angels_47
+  - first:
+      213: 2492178822852433299
+    second: Dark_angels_48
+  - first:
+      213: 6652591665452334261
+    second: Dark_angels_49
+  - first:
+      213: 6561568901298223261
+    second: Dark_angels_50
+  - first:
+      213: -4958312112523288082
+    second: Dark_angels_51
+  - first:
+      213: 4920889459949545868
+    second: Dark_angels_52
+  - first:
+      213: -5538779412809949034
+    second: Dark_angels_53
+  - first:
+      213: 7064395381908104968
+    second: Dark_angels_54
+  - first:
+      213: 5122833735619234110
+    second: Dark_angels_55
+  - first:
+      213: 6794935241287108145
+    second: Dark_angels_56
+  - first:
+      213: 8733419841059194851
+    second: Dark_angels_57
+  - first:
+      213: -1146643819341917855
+    second: Dark_angels_58
+  - first:
+      213: -4876759239391058821
+    second: Dark_angels_59
+  - first:
+      213: 6278930816403491303
+    second: Dark_angels_60
+  - first:
+      213: 3773444308224508504
+    second: Dark_angels_61
+  - first:
+      213: -4117168702759714881
+    second: Dark_angels_62
+  - first:
+      213: -1650212425778328883
+    second: Dark_angels_63
+  - first:
+      213: -7335240765247997511
+    second: Dark_angels_64
+  - first:
+      213: 7990700512918034033
+    second: Dark_angels_65
+  - first:
+      213: 2312446647141692306
+    second: Dark_angels_66
+  - first:
+      213: 1869279305312719875
+    second: Dark_angels_67
+  - first:
+      213: -3768235413311362767
+    second: Dark_angels_68
+  - first:
+      213: 2413995570686903464
+    second: Dark_angels_69
+  - first:
+      213: -1737974132717223675
+    second: Dark_angels_70
+  - first:
+      213: 6264098337442947800
+    second: Dark_angels_71
+  - first:
+      213: 5131642193794975301
+    second: Dark_angels_72
+  - first:
+      213: -288613667587574348
+    second: Dark_angels_73
+  - first:
+      213: -7878065253731210861
+    second: Dark_angels_74
+  - first:
+      213: -3695766791392753478
+    second: Dark_angels_75
+  - first:
+      213: 5052955464821784217
+    second: Dark_angels_76
+  - first:
+      213: 5476352932655621519
+    second: Dark_angels_77
+  - first:
+      213: 5132577541813569068
+    second: Dark_angels_78
+  - first:
+      213: -8567762145942548957
+    second: Dark_angels_79
+  - first:
+      213: -2839137923272313619
+    second: Dark_angels_80
+  - first:
+      213: 5896635183086150737
+    second: Dark_angels_81
+  - first:
+      213: 6557033987625272477
+    second: Dark_angels_82
+  - first:
+      213: 3249966575450943900
+    second: Dark_angels_83
+  - first:
+      213: 7579665769193414171
+    second: Dark_angels_84
+  - first:
+      213: 2453968870645848415
+    second: Dark_angels_85
+  - first:
+      213: -7284021363020908111
+    second: Dark_angels_86
+  - first:
+      213: -494498101501177248
+    second: Dark_angels_87
+  - first:
+      213: 1559141031959388841
+    second: Dark_angels_88
+  - first:
+      213: -5321528644215926712
+    second: Dark_angels_89
+  - first:
+      213: -1353884080412584200
+    second: Dark_angels_90
+  - first:
+      213: -5764140887469683047
+    second: Dark_angels_91
+  - first:
+      213: -7346175346844747291
+    second: Dark_angels_92
+  - first:
+      213: 64038939447803911
+    second: Dark_angels_93
+  - first:
+      213: -1859037157959259825
+    second: Dark_angels_94
+  - first:
+      213: 3869389621008181334
+    second: Dark_angels_95
+  - first:
+      213: 907621171318247076
+    second: Dark_angels_96
+  - first:
+      213: -3415777861462126306
+    second: Dark_angels_97
+  - first:
+      213: 3300504251285769625
+    second: Dark_angels_98
+  - first:
+      213: -8040120993406872726
+    second: Dark_angels_99
+  - first:
+      213: -12955554405668000
+    second: Dark_angels_100
+  - first:
+      213: 3718631685943515040
+    second: Dark_angels_101
+  - first:
+      213: -8478631072467149780
+    second: Dark_angels_102
+  - first:
+      213: 6793874114435953395
+    second: Dark_angels_103
+  - first:
+      213: 6962839982864445795
+    second: Dark_angels_104
+  - first:
+      213: -8652266642044027182
+    second: Dark_angels_105
+  - first:
+      213: -75724807401164252
+    second: Dark_angels_106
+  - first:
+      213: -2919345941242087002
+    second: Dark_angels_107
+  - first:
+      213: -8749988250913645394
+    second: Dark_angels_108
+  - first:
+      213: 5186416987313283565
+    second: Dark_angels_109
+  - first:
+      213: -5664291501684463745
+    second: Dark_angels_110
+  - first:
+      213: 8406069482541244252
+    second: Dark_angels_111
+  - first:
+      213: -7755071243899980044
+    second: Dark_angels_112
+  - first:
+      213: 66199306775042331
+    second: Dark_angels_113
+  - first:
+      213: 8712813619309913007
+    second: Dark_angels_114
+  - first:
+      213: 6665405936534894140
+    second: Dark_angels_115
+  - first:
+      213: 6318498465543128352
+    second: Dark_angels_116
+  - first:
+      213: 2455383607414795746
+    second: Dark_angels_117
+  - first:
+      213: -7249933926399512460
+    second: Dark_angels_118
+  - first:
+      213: -7438733658887744814
+    second: Dark_angels_119
+  - first:
+      213: 1838460937003347516
+    second: Dark_angels_120
+  - first:
+      213: 7866704922893411544
+    second: Dark_angels_121
+  - first:
+      213: -4401786293926660845
+    second: Dark_angels_122
+  - first:
+      213: -9179294902849740556
+    second: Dark_angels_123
+  - first:
+      213: 4374446961613620820
+    second: Dark_angels_124
+  - first:
+      213: 5752309776177466647
+    second: Dark_angels_125
+  - first:
+      213: -8984014977711625249
+    second: Dark_angels_126
+  - first:
+      213: 902805997935242683
+    second: Dark_angels_127
+  - first:
+      213: 3884455925330983906
+    second: Dark_angels_128
+  - first:
+      213: -4277399900558813404
+    second: Dark_angels_129
+  - first:
+      213: -1523308385309773469
+    second: Dark_angels_130
+  - first:
+      213: 7416134789985544393
+    second: Dark_angels_131
+  - first:
+      213: -1416637899661213918
+    second: Dark_angels_132
+  - first:
+      213: 804443113493199590
+    second: Dark_angels_133
+  - first:
+      213: -7438534376354508883
+    second: Dark_angels_134
+  - first:
+      213: 2884822756807752232
+    second: Dark_angels_135
+  - first:
+      213: 622457274850899878
+    second: Dark_angels_136
+  - first:
+      213: -8688947057773464659
+    second: Dark_angels_137
+  - first:
+      213: -8277065710192512165
+    second: Dark_angels_138
+  - first:
+      213: 1794250519101062673
+    second: Dark_angels_139
+  - first:
+      213: 3457156159159318591
+    second: Dark_angels_140
+  - first:
+      213: -6220813417222418013
+    second: Dark_angels_141
+  - first:
+      213: -2599384090522610199
+    second: Dark_angels_142
+  - first:
+      213: 7859194080767396556
+    second: Dark_angels_143
+  - first:
+      213: 7462699803756555736
+    second: Dark_angels_144
+  - first:
+      213: -4237485731588042524
+    second: Dark_angels_145
+  - first:
+      213: 8656915739127617111
+    second: Dark_angels_146
+  - first:
+      213: 2515138118230110379
+    second: Dark_angels_147
+  - first:
+      213: -7242252269427797588
+    second: Dark_angels_148
+  - first:
+      213: 2777859321094507469
+    second: Dark_angels_149
+  - first:
+      213: -3271631446010768106
+    second: Dark_angels_150
+  - first:
+      213: 1046383430345582302
+    second: Dark_angels_151
+  - first:
+      213: -8210281001127436589
+    second: Dark_angels_152
+  - first:
+      213: -4165137080664817480
+    second: Dark_angels_153
+  - first:
+      213: 1930180817712435551
+    second: Dark_angels_154
+  - first:
+      213: -6462908625857452385
+    second: Dark_angels_155
+  - first:
+      213: -5324153881811284187
+    second: Dark_angels_156
+  - first:
+      213: 3032593310142659752
+    second: Dark_angels_157
+  - first:
+      213: -8292090912533917150
+    second: Dark_angels_158
+  - first:
+      213: -6126956428599367773
+    second: Dark_angels_159
+  - first:
+      213: 8160370652574426496
+    second: Dark_angels_160
+  - first:
+      213: 6774993432060714633
+    second: Dark_angels_161
+  - first:
+      213: 345485594434391346
+    second: Dark_angels_162
+  - first:
+      213: -4030171331530206256
+    second: Dark_angels_163
+  - first:
+      213: 149515384603865280
+    second: Dark_angels_164
+  - first:
+      213: 7911825100552075573
+    second: Dark_angels_165
+  - first:
+      213: -5324215231157317345
+    second: Dark_angels_166
+  - first:
+      213: 2964098821446396537
+    second: Dark_angels_167
+  - first:
+      213: 1823564963769776019
+    second: Dark_angels_168
+  - first:
+      213: -3310655303838729273
+    second: Dark_angels_169
+  - first:
+      213: -2384859134179091504
+    second: Dark_angels_170
+  - first:
+      213: -3633760836216976529
+    second: Dark_angels_171
+  - first:
+      213: 429992803698412392
+    second: Dark_angels_172
+  - first:
+      213: -8697472044542698963
+    second: Dark_angels_173
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dark_angels_0
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 634
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de5adf1d62a222570800000000000000
+      internalID: 8440354997865915885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_1
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 638
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd0daebccb5e28dd0800000000000000
+      internalID: -2485171445317316389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 636
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f4b5217fe731fa60800000000000000
+      internalID: 7706001938942637297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_3
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 640
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3fc8f74214504ef0800000000000000
+      internalID: -126008352072741061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_4
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 644
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80365c649996abda0800000000000000
+      internalID: -5928309852441582840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 645
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c027690527c45b650800000000000000
+      internalID: 6247984111908450828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_6
+      rect:
+        serializedVersion: 2
+        x: 723
+        y: 581
+        width: 97
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4d5fe7f717a1830800000000000000
+      internalID: 4042668407923266779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_7
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 582
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc22b7eb97d335320800000000000000
+      internalID: 2545445807490540239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_8
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 584
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8aab499f139ef980800000000000000
+      internalID: -8503197282503775605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_9
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 584
+        width: 103
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a3eac13fee73e4f0800000000000000
+      internalID: -800656742944152667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_10
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 582
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2acd7545d4f4e1f0800000000000000
+      internalID: -1016418419047806421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_11
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 586
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0825b4a0e959f20800000000000000
+      internalID: 3428820458363060424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_12
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 586
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac87ed4efe4d8ef60800000000000000
+      internalID: 8063929259608930506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_13
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 586
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bb2d3330a0580a00800000000000000
+      internalID: 722916389177600953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_14
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 587
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10ae78f7bc6119120800000000000000
+      internalID: 2418739538148452865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_15
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 587
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf6398a8fea8a30800000000000000
+      internalID: 4218447379272498113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_16
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 588
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a459b3c3ae8e7fc0800000000000000
+      internalID: -3495199426778409819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_17
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 587
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fe1a20106e3af790800000000000000
+      internalID: -7495610047495790860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_18
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 588
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 213150d34d4684f80800000000000000
+      internalID: -8122131065243102446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_19
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 588
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9a042e63a7a0620800000000000000
+      internalID: 2741137699351079403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_20
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 478
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d91af98f9e904fca0800000000000000
+      internalID: -5984147104365305443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 478
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28108e2770705b520800000000000000
+      internalID: 2717085678761935234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_22
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 479
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d19f9c66b4d957850800000000000000
+      internalID: 6374173794785425693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_23
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 478
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf08bbea594c35310800000000000000
+      internalID: 1392672856948310267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_24
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 473
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9c35b937e1481e0800000000000000
+      internalID: -2196597236373927482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_25
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 472
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbf64385e94055390800000000000000
+      internalID: -7830347298982563905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_26
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 471
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c71700d4cd4536ee0800000000000000
+      internalID: -1269077364826934916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_27
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 471
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02333a3f69ca0dc60800000000000000
+      internalID: 7840956715584664352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_28
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 471
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9278025754f08c0800000000000000
+      internalID: -4030926772114085424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_29
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 470
+        width: 75
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e1074d873011ad0800000000000000
+      internalID: -2733399681342104005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_30
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 492
+        width: 25
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98d38cf780bb79d0800000000000000
+      internalID: -2775430647240206180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_31
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 494
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a981a3f31b9c6e930800000000000000
+      internalID: 4172243867912509594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_32
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 470
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1e9668700533bfa0800000000000000
+      internalID: -5786222820104692193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_33
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 470
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51fd8d48fc74b190800000000000000
+      internalID: -7947590036507201190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_34
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 470
+        width: 59
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c59e1cfe58f858db0800000000000000
+      internalID: -4790264823222769316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_35
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 461
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6eea265245e91320800000000000000
+      internalID: 2529304738821500526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_36
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 436
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f71e3915faf973060800000000000000
+      internalID: 6933185726696907135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_37
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 371
+        width: 59
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595d21ef87ac2a140800000000000000
+      internalID: 4729565179699975573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 434
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a51a35489b84640800000000000000
+      internalID: 5064501758968027794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_39
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 433
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09bb38a099ef802c0800000000000000
+      internalID: -4465039097277990000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_40
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 434
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f93cf6186a93f8670800000000000000
+      internalID: 8543110405444060063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_41
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 432
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3f4b9d4d76886c40800000000000000
+      internalID: 5505798417191489339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_42
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 433
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817265a3514f99ff0800000000000000
+      internalID: -28723550590982376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_43
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 431
+        width: 25
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2626f404acd4650800000000000000
+      internalID: 6218849038027088595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_44
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 432
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7892ad388402677f0800000000000000
+      internalID: -615268803267647097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_45
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 432
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b1feb89ccfbceb60800000000000000
+      internalID: 7776801542018888118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 432
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67764b743fa39d060800000000000000
+      internalID: 6978673914141763446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_47
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 433
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2714ead516f3e170800000000000000
+      internalID: 8206673519726303019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_48
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 432
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395dedc6f6ff59220800000000000000
+      internalID: 2492178822852433299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_49
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 433
+        width: 25
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bcb20f6fd0c25c50800000000000000
+      internalID: 6652591665452334261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_50
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 431
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d98712ba6206f0b50800000000000000
+      internalID: 6561568901298223261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_51
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 432
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee168876769803bb0800000000000000
+      internalID: -4958312112523288082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_52
+      rect:
+        serializedVersion: 2
+        x: 632
+        y: 432
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c89a14f44e28a4440800000000000000
+      internalID: 4920889459949545868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_53
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 433
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906732487d4223b0800000000000000
+      internalID: -5538779412809949034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_54
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 434
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 807ea8bcb26c90260800000000000000
+      internalID: 7064395381908104968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_55
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 432
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39c8fef326f71740800000000000000
+      internalID: 5122833735619234110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_56
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 431
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13683b0d9957c4e50800000000000000
+      internalID: 6794935241287108145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_57
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 367
+        width: 61
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e78ea4e217533970800000000000000
+      internalID: 8733419841059194851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_58
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 379
+        width: 27
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1615a30858d4610f0800000000000000
+      internalID: -1146643819341917855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_59
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 382
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b74edf85f45425cb0800000000000000
+      internalID: -4876759239391058821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 380
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e9cbf07f4e332750800000000000000
+      internalID: 6278930816403491303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_61
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 382
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85201731b97fd5430800000000000000
+      internalID: 3773444308224508504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_62
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 380
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbfb6a7e0e0ecd6c0800000000000000
+      internalID: -4117168702759714881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_63
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 379
+        width: 42
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dca0c8dba844919e0800000000000000
+      internalID: -1650212425778328883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_64
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 381
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b9bd65436df33a90800000000000000
+      internalID: -7335240765247997511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_65
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 369
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 176d20ba7cba4ee60800000000000000
+      internalID: 7990700512918034033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_66
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 314
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2937ce449f5771020800000000000000
+      internalID: 2312446647141692306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_67
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 314
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3045723df9301f910800000000000000
+      internalID: 1869279305312719875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_68
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 316
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13967874bd984bbc0800000000000000
+      internalID: -3768235413311362767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_69
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 316
+        width: 107
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a4c8208e2c308120800000000000000
+      internalID: 2413995570686903464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_70
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 373
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50182960cb971e7e0800000000000000
+      internalID: -1737974132717223675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_71
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 320
+        width: 58
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e661df3c8ee650800000000000000
+      internalID: 6264098337442947800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_72
+      rect:
+        serializedVersion: 2
+        x: 497
+        y: 320
+        width: 56
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5464e8bf261473740800000000000000
+      internalID: 5131642193794975301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_73
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 315
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b5be120663aefbf0800000000000000
+      internalID: -288613667587574348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_74
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 319
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 399e00a346d7ba290800000000000000
+      internalID: -7878065253731210861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_75
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 319
+        width: 60
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab8895a2faff5bcc0800000000000000
+      internalID: -3695766791392753478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_76
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 319
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e329a3934bf1640800000000000000
+      internalID: 5052955464821784217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_77
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 320
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f856b9f2af9effb40800000000000000
+      internalID: 5476352932655621519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_78
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 321
+        width: 59
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2602f9a4149a3740800000000000000
+      internalID: 5132577541813569068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_79
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 321
+        width: 60
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32e4e03e8b1391980800000000000000
+      internalID: -8567762145942548957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_80
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 321
+        width: 58
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de47307e91b5998d0800000000000000
+      internalID: -2839137923272313619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_81
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 256
+        width: 58
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154abe1157e05d150800000000000000
+      internalID: 5896635183086150737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_82
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 260
+        width: 56
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d94419ccba34ffa50800000000000000
+      internalID: 6557033987625272477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_83
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 267
+        width: 60
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9175ad91633a1d20800000000000000
+      internalID: 3249966575450943900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_84
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 268
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e16f8bbd1603960800000000000000
+      internalID: 7579665769193414171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_85
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 276
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5956b8afaf3e0220800000000000000
+      internalID: 2453968870645848415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_86
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 278
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b938c8a925f9ea90800000000000000
+      internalID: -7284021363020908111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_87
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 278
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 062daedb8903329f0800000000000000
+      internalID: -494498101501177248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_88
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 277
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a2eca4028e23a510800000000000000
+      internalID: 1559141031959388841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_89
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 279
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840917b84e12626b0800000000000000
+      internalID: -5321528644215926712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_90
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 279
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f693ff1a99063de0800000000000000
+      internalID: -1353884080412584200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 279
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99e801f0768a100b0800000000000000
+      internalID: -5764140887469683047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_92
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 280
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e9369991742d0a90800000000000000
+      internalID: -7346175346844747291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_93
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 279
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 700449d731383e000800000000000000
+      internalID: 64038939447803911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_94
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 277
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f49269fed8f5336e0800000000000000
+      internalID: -1859037157959259825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_95
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 278
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 658a6c10c55d2b530800000000000000
+      internalID: 3869389621008181334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_96
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 277
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae4c0385a4889c00800000000000000
+      internalID: 907621171318247076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_97
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 278
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1118efe128b890d0800000000000000
+      internalID: -3415777861462126306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_98
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 278
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0e85312fbdcd20800000000000000
+      internalID: 3300504251285769625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_99
+      rect:
+        serializedVersion: 2
+        x: 1002
+        y: 210
+        width: 128
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6392dc0e80cb6090800000000000000
+      internalID: -8040120993406872726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_100
+      rect:
+        serializedVersion: 2
+        x: 365
+        y: 230
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b28cdedf8f1dff0800000000000000
+      internalID: -12955554405668000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_101
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 232
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a7dc23f0db3b9330800000000000000
+      internalID: 3718631685943515040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_102
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 231
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2c910816f9d55a80800000000000000
+      internalID: -8478631072467149780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_103
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 231
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f23da7f280b84e50800000000000000
+      internalID: 6793874114435953395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_104
+      rect:
+        serializedVersion: 2
+        x: 501
+        y: 231
+        width: 29
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361b58ed21af0a060800000000000000
+      internalID: 6962839982864445795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_105
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 232
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2def00ba459fce780800000000000000
+      internalID: -8652266642044027182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_106
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 238
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4223b2a50b8f2fef0800000000000000
+      internalID: -75724807401164252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_107
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 243
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a979c375566c77d0800000000000000
+      internalID: -2919345941242087002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_108
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 242
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eac53739b0cc19680800000000000000
+      internalID: -8749988250913645394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_109
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 240
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de12cd965cad9f740800000000000000
+      internalID: 5186416987313283565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_110
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 241
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7765d1d3e46461b0800000000000000
+      internalID: -5664291501684463745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_111
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 240
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5f5f1838ab58a470800000000000000
+      internalID: 8406069482541244252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_112
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 241
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f6be73bac3706490800000000000000
+      internalID: -7755071243899980044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_113
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 241
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1914b43bef2be000800000000000000
+      internalID: 66199306775042331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_114
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 241
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa3272503d12ae870800000000000000
+      internalID: 8712813619309913007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_115
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 239
+        width: 25
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3631fa6267408c50800000000000000
+      internalID: 6665405936534894140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_116
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 240
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0258c88a0e0dfa750800000000000000
+      internalID: 6318498465543128352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_117
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 197
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eda64bb166431220800000000000000
+      internalID: 2455383607414795746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_118
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 191
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47077e7718f036b90800000000000000
+      internalID: -7249933926399512460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_119
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 191
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2114b362f44c890800000000000000
+      internalID: -7438733658887744814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_120
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 193
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3e248b4b76838910800000000000000
+      internalID: 1838460937003347516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_121
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 193
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d4e0e1a2762c2d60800000000000000
+      internalID: 7866704922893411544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_122
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 159
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3157155ffa6b9e2c0800000000000000
+      internalID: -4401786293926660845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_123
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 159
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0661b7be79c9080800000000000000
+      internalID: -9179294902849740556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_124
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 158
+        width: 27
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45644c3b55825bc30800000000000000
+      internalID: 4374446961613620820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_125
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 158
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71d801fa34f44df40800000000000000
+      internalID: 5752309776177466647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_126
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 158
+        width: 27
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdba5b42afd525380800000000000000
+      internalID: -8984014977711625249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_127
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 159
+        width: 27
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbda5089549678c00800000000000000
+      internalID: 902805997935242683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_128
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 156
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ebb307551c58e530800000000000000
+      internalID: 3884455925330983906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_129
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42796ecf37f93a4c0800000000000000
+      internalID: -4277399900558813404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_130
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 160
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361bc3a281f1cdae0800000000000000
+      internalID: -1523308385309773469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_131
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 159
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c821839c476be660800000000000000
+      internalID: 7416134789985544393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_132
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 158
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f765ff557175ce0800000000000000
+      internalID: -1416637899661213918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_133
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 132
+        width: 22
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea75c5efb4f92b00800000000000000
+      internalID: 804443113493199590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_134
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 158
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daf8bdf456405c890800000000000000
+      internalID: -7438534376354508883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_135
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 153
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82a3d7b4303f80820800000000000000
+      internalID: 2884822756807752232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_136
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 156
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a77853f79963a800800000000000000
+      internalID: 622457274850899878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_137
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 157
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da3bc3ddfa8aa6780800000000000000
+      internalID: -8688947057773464659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_138
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 156
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b53b8612794f12d80800000000000000
+      internalID: -8277065710192512165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_139
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 157
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11e341d375576e810800000000000000
+      internalID: 1794250519101062673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_140
+      rect:
+        serializedVersion: 2
+        x: 759
+        y: 159
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f38bebfb5394aff20800000000000000
+      internalID: 3457156159159318591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_141
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 156
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a15974082b3ba9a0800000000000000
+      internalID: -6220813417222418013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_142
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 157
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e5199911f12debd0800000000000000
+      internalID: -2599384090522610199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_143
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 156
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca4efc6067711d60800000000000000
+      internalID: 7859194080767396556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_144
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 156
+        width: 32
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd6944bee5d09760800000000000000
+      internalID: 7462699803756555736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_145
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 157
+        width: 29
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e098e3ad2d6135c0800000000000000
+      internalID: -4237485731588042524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_146
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 157
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75690399ffa832870800000000000000
+      internalID: 8656915739127617111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_147
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 157
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba07622fac097e220800000000000000
+      internalID: 2515138118230110379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_148
+      rect:
+        serializedVersion: 2
+        x: 1048
+        y: 159
+        width: 40
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca15dfa9ee95e7b90800000000000000
+      internalID: -7242252269427797588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_149
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 160
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcb88d5b550fc8620800000000000000
+      internalID: 2777859321094507469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_150
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 85
+        width: 61
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 615d780a884d892d0800000000000000
+      internalID: -3271631446010768106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_151
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 85
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed66a989f20858e00800000000000000
+      internalID: 1046383430345582302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_152
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 85
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3de19adede83f0e80800000000000000
+      internalID: -8210281001127436589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_153
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 85
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b08a2a94e57236c0800000000000000
+      internalID: -4165137080664817480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_154
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 85
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f51d5082a3169ca10800000000000000
+      internalID: 1930180817712435551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_155
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 117
+        width: 33
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9665f3c8d22f46a0800000000000000
+      internalID: -6462908625857452385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_156
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 84
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f0f19c04ecc16b0800000000000000
+      internalID: -5324153881811284187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_157
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 83
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ac77475c8fe51a20800000000000000
+      internalID: 3032593310142659752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_158
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 84
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 222db299f339cec80800000000000000
+      internalID: -8292090912533917150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_159
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 83
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a7e907179da8faa0800000000000000
+      internalID: -6126956428599367773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_160
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 83
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 085a83e7fd57f3170800000000000000
+      internalID: 8160370652574426496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_161
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 84
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98e559981ac950e50800000000000000
+      internalID: 6774993432060714633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_162
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 86
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23dc64351596bc400800000000000000
+      internalID: 345485594434391346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_163
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 86
+        width: 53
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d3dd28d684f118c0800000000000000
+      internalID: -4030171331530206256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_164
+      rect:
+        serializedVersion: 2
+        x: 1070
+        y: 83
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0f4cb337f231200800000000000000
+      internalID: 149515384603865280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_165
+      rect:
+        serializedVersion: 2
+        x: 1127
+        y: 83
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539fc63a2037ccd60800000000000000
+      internalID: 7911825100552075573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_166
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 10
+        width: 69
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f11d427c4769c16b0800000000000000
+      internalID: -5324215231157317345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_167
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 71
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97a67737c28922920800000000000000
+      internalID: 2964098821446396537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_168
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 80
+        width: 16
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39778524caa9e4910800000000000000
+      internalID: 1823564963769776019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_169
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 31
+        width: 45
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7cbfde0ba803e02d0800000000000000
+      internalID: -3310655303838729273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_170
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 5
+        width: 59
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbd8e3c04747eed0800000000000000
+      internalID: -2384859134179091504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_171
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 51
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b8f8e95c9429dc0800000000000000
+      internalID: -3633760836216976529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_172
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 17
+        width: 25
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86b0b604d24a7f500800000000000000
+      internalID: 429992803698412392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dark_angels_173
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 17
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2a5425b14f5c4780800000000000000
+      internalID: -8697472044542698963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
