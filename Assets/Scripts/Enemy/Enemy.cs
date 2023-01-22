@@ -36,6 +36,11 @@ public class Enemy : MonoBehaviour
         _chase.Init(target);
     }
 
+    public void TakeDamage(int damage)
+    {
+        _health.TakeDamage(damage);
+    }
+
     private void OnDied()
     {
         _collider.enabled = false;

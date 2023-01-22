@@ -5,11 +5,11 @@ using UnityEngine;
 public class Player : MonoBehaviour
 {
     [SerializeField] private Shooting _shootting;
-    [SerializeField] private Equipment _equipment;
+    [SerializeField] private Inventory _equipment;
 
-    public void ChangeWeapon(int id)
+    public void ChangeWeapon(Constants.Equipment id)
     {
-        var weapon = _equipment.GetWeapon(id);
+        var weapon = _equipment.GetRangedWeapon(id);
         _shootting.SetWeapon(weapon);
 
         Debug.Log($"weapon changed to {weapon.name}.");

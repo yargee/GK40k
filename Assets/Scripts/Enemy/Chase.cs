@@ -17,12 +17,12 @@ public class Chase : MonoBehaviour
 
     private Vector2 GetDirection()
     {
-        return _target.transform.position - transform.position;
+        return (_target.transform.position - transform.position).normalized;
     }
 
     private void Rotate()
     {
-        var direction = (_target.transform.position - transform.position).normalized;
+        var direction = GetDirection();
         var angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         transform.rotation = Quaternion.AngleAxis(angle - _rotationOffset, Vector3.forward);
     }

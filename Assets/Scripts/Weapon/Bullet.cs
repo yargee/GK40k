@@ -20,9 +20,9 @@ public class Bullet : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        if(collision.TryGetComponent(out Health health))
+        if(collision.TryGetComponent(out Enemy enemy))
         {
-            health.TakeDamage(_damage);
+            enemy.TakeDamage(_damage);
 
             bool pierce = Random.Range(0, 101) < _armorPiercing;
 

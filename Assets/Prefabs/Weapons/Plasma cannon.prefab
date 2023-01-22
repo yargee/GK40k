@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 198112743886591892}
   - component: {fileID: 198112743886591893}
   m_Layer: 0
-  m_Name: PlasmaGun
+  m_Name: Plasma cannon
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0

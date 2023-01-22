@@ -4,10 +4,15 @@ using UnityEngine;
 
 public static class Constants
 {
-    public enum Weapons
+    public const string ATTACK = nameof(ATTACK);
+
+    public enum Equipment
     {
         Bolter = 0,
         PlasmaCannon = 1,
-        Flamer = 2
+        Flamer = 2,
+        ChainSword = 3,
+        PowerSword = 4,
+        PowerFist = 5
     }
 }

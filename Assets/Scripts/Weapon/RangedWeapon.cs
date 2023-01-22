@@ -3,18 +3,23 @@ using UnityEngine;
 
 public class RangedWeapon : MonoBehaviour
 {
-    [SerializeField] private WeaponData _data;
+    [SerializeField] private RangedWeaponData _data;
     
     private Transform _barrel;
     private WaitForSeconds _delay;
 
     public bool Shooting { get; private set; } = false;
-    public WeaponData Data => _data;
+    public RangedWeaponData Data => _data;
 
     public void Init(Transform barrel)
     {
+        Debug.Log("Init");
+
         _barrel = barrel;
+
         _delay = new WaitForSeconds(_data.RateOfFire);
+
+        
     }
 
     private Vector2 CalculateScatter()

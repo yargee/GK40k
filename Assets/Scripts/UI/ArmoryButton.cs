@@ -7,16 +7,16 @@ using UnityEngine.UI;
 [RequireComponent(typeof(Button))]
 public class ArmoryButton : MonoBehaviour
 {
-    [SerializeField] private Constants.Weapons _weapon;
+    [SerializeField] private Constants.Equipment _weapon;
 
     private Button _button;
 
-    public event UnityAction<int> Clicked;
+    public event UnityAction<Constants.Equipment> Clicked;
 
     private void OnEnable()
     {
         _button = GetComponent<Button>();
-        _button.onClick.AddListener(() => Clicked?.Invoke((int)_weapon));
+        _button.onClick.AddListener(() => Clicked?.Invoke(_weapon));
     }
 
     private void OnDisable()

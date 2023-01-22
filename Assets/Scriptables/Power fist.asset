@@ -9,11 +9,9 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 47537307bda83c944b7bd3c063d4e4ca, type: 3}
-  m_Name: Flamer
+  m_Script: {fileID: 11500000, guid: 3a44bde07f3e66f43906b256e158ef36, type: 3}
+  m_Name: Power fist
   m_EditorClassIdentifier: 
-  _id: 2
-  _bulletTemplate: {fileID: 6803162034466898176, guid: c05e35e84f5f9e74a87e70ed58dd8b53, type: 3}
-  _rateOfFire: 0.01
-  _scatter: 1.8
-  _range: 3
+  _id: 5
+  _damage: 80
+  _attackSpeed: 0.8

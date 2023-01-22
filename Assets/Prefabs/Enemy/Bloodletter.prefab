@@ -136,7 +136,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _target: {fileID: 0}
   _rigidbody: {fileID: 2284466840716988626}
-  _speed: 0.7
+  _speed: 3
   _rotationOffset: 115
 --- !u!58 &2284466840716988629
 CircleCollider2D:
