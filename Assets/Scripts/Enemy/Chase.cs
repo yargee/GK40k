@@ -1,17 +1,28 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.AI;
 
 public class Chase : MonoBehaviour
 {
     [SerializeField] private Health _target;
-    [SerializeField] private Rigidbody2D _rigidbody;
-    [SerializeField] private float _speed;
+   // [SerializeField] private Rigidbody2D _rigidbody;
     [SerializeField] private float _rotationOffset;
+
+    private NavMeshAgent _agent;
+
+    private void OnEnable()
+    {
+        _agent = GetComponent<NavMeshAgent>();
+        _agent.updateRotation = false;
+        _agent.updateUpAxis = false;
+    }
 
     private void FixedUpdate()
     {
-        _rigidbody.velocity = GetDirection() * _speed;
+
+        _agent.SetDestination(_target.transform.position);
+        //_rigidbody.velocity = GetDirection() * _speed;
         Rotate();
     }
 
