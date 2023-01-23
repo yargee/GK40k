@@ -8,7 +8,7 @@ public class RangedWeapon : MonoBehaviour
     private Transform _barrel;
     private WaitForSeconds _delay;
 
-    public bool Shooting { get; private set; } = false;
+    public bool Shooting { get; private set; }
     public RangedWeaponData Data => _data;
 
     public void Init(Transform barrel)
@@ -16,7 +16,7 @@ public class RangedWeapon : MonoBehaviour
         Debug.Log("Init weapon");
 
         _barrel = barrel;
-
+        Shooting = false;
         _delay = new WaitForSeconds(_data.RateOfFire);
     }
 

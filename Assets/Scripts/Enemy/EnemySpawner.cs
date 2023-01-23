@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class EnemySpawner : MonoBehaviour
 {
-    [SerializeField] private Health _target;
+    [SerializeField] private Player _target;
     [SerializeField] private List<EnemyWave> _waves;
 
     private EnemyWave _currentWave;
@@ -24,7 +24,7 @@ public class EnemySpawner : MonoBehaviour
     {
         foreach(var enemy in _currentWave.Enemies)
         {
-            var newEnemy = Instantiate(enemy, _currentWave.SpawnPoints[Random.Range(0, _currentWave.SpawnPoints.Count)]);
+            var newEnemy = Instantiate(enemy, (Vector2)_currentWave.SpawnPoints[Random.Range(0, _currentWave.SpawnPoints.Count)].position + Random.insideUnitCircle.normalized, Quaternion.identity);
             newEnemy.Init(_target);
             yield return new WaitForSeconds(Random.Range(0, _currentWave.MaxSpawnDelay));
         }

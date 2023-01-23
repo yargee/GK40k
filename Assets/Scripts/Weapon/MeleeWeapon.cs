@@ -9,12 +9,13 @@ public class MeleeWeapon : MonoBehaviour
 
     private WaitForSeconds _delay;
 
-    public bool Attacking { get; private set; } = false;
+    public bool Attacking { get; private set; }
     public MeleeWeaponData Data => _data;
 
     public void Init()
     {
         _delay = new WaitForSeconds(_data.AttackSpeed);
+        Attacking = false;
         _weapon.Init(_data.Damage);
     }
 
