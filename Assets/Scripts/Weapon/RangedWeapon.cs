@@ -13,13 +13,11 @@ public class RangedWeapon : MonoBehaviour
 
     public void Init(Transform barrel)
     {
-        Debug.Log("Init");
+        Debug.Log("Init weapon");
 
         _barrel = barrel;
 
         _delay = new WaitForSeconds(_data.RateOfFire);
-
-        
     }
 
     private Vector2 CalculateScatter()
@@ -34,6 +32,8 @@ public class RangedWeapon : MonoBehaviour
 
     public IEnumerator Shoot(Vector2 target)
     {
+        Debug.Log("shoott");
+
         Shooting = true;
         var bullet = Instantiate(_data.BulletTemplate, _barrel);
         _barrel.DetachChildren();

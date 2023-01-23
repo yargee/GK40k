@@ -12,9 +12,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 47537307bda83c944b7bd3c063d4e4ca, type: 3}
   m_Name: Bolter
   m_EditorClassIdentifier: 
-  _name: Bolter
   _id: 0
   _bulletTemplate: {fileID: 6803162034466898176, guid: 3641dcac0b9b2a44793c1ac2546b262c, type: 3}
-  _rateOfFire: 0.3
-  _scatter: 0.5
-  _range: 12
+  _rateOfFire: 0.15
+  _scatter: 0.3
+  _range: 8

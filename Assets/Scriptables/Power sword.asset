@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Power sword
   m_EditorClassIdentifier: 
   _id: 4
-  _damage: 25
-  _attackSpeed: 0.35
+  _damage: 120
+  _attackSpeed: 0.5

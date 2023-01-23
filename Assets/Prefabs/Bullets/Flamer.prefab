@@ -135,6 +135,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 7653139150923912475}
-  _damage: 10
-  _armorPiercing: 70
+  _damage: 4
+  _armorPiercing: 80
   _speed: 3

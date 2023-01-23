@@ -20,7 +20,11 @@ public class Shooting : MonoBehaviour
     {        
         if(Input.GetMouseButton(0) && !_eventSystem.IsPointerOverGameObject())
         {
+            Debug.Log(" tryshoott1");
+
             if (_rangedWeapon.Shooting) return;
+
+            Debug.Log(" tryshoott");
 
             Vector2 target = _camera.ScreenToWorldPoint(Input.mousePosition) - _barrel.position;
             StartCoroutine(_rangedWeapon.Shoot(target));

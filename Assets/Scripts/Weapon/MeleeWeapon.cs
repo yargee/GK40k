@@ -5,7 +5,7 @@ using UnityEngine;
 public class MeleeWeapon : MonoBehaviour
 {
     [SerializeField] private MeleeWeaponData _data;
-    [SerializeField] private MeleeWeaponTemplate _template;
+    [SerializeField] private MeleeWeaponTemplate _weapon;
 
     private WaitForSeconds _delay;
 
@@ -15,17 +15,14 @@ public class MeleeWeapon : MonoBehaviour
     public void Init()
     {
         _delay = new WaitForSeconds(_data.AttackSpeed);
-        _template.Disable();
-        _template.Init(_data.Damage);
+        _weapon.Init(_data.Damage);
     }
 
     public IEnumerator Attack()
     {
         Attacking = true;
-        _template.Activate();
-        _template.Attack();
+        _weapon.Attack();
         yield return _delay;
-        _template.Disable();
         Attacking = false;
     }
 }

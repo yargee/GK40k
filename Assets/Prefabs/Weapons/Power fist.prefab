@@ -133,7 +133,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _animator: {fileID: 6843397712321112675}
-  _collider: {fileID: 6843397712321112684}
+  _attackPoint: {fileID: 0}
+  _attackArea: 0
 --- !u!1 &6843397713318746446
 GameObject:
   m_ObjectHideFlags: 0
@@ -179,4 +180,4 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _data: {fileID: 11400000, guid: 3c173be03f2f0ed4bb2f73f90a91cff2, type: 2}
-  _template: {fileID: 6843397712321112686}
+  _weapon: {fileID: 6843397712321112686}

@@ -1,5 +1,3 @@
-using System.Collections;
-using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Events;
 using UnityEngine.UI;
@@ -8,6 +6,7 @@ using UnityEngine.UI;
 public class ArmoryButton : MonoBehaviour
 {
     [SerializeField] private Constants.Equipment _weapon;
+    [SerializeField] private KeyCode _hotkey;
 
     private Button _button;
 
@@ -22,5 +21,13 @@ public class ArmoryButton : MonoBehaviour
     private void OnDisable()
     {
         _button.onClick.RemoveAllListeners();
+    }
+
+    private void Update()
+    {
+        if(Input.GetKeyDown(_hotkey))
+        {
+            Clicked?.Invoke(_weapon);
+        }
     }
 }

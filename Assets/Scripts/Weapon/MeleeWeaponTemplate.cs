@@ -5,25 +5,11 @@ using UnityEngine;
 public class MeleeWeaponTemplate : MonoBehaviour
 {
     [SerializeField] private Animator _animator;
-    [SerializeField] private Collider2D _collider;
+    [SerializeField] private Transform _attackPoint;
+    [SerializeField][Range(0.1f,1)] private float _attackArea;
+    [SerializeField] private LayerMask _layer;
 
     private int _damage;
-
-    private void OnTriggerEnter2D(Collider2D collision)
-    {
-        if(collision.TryGetComponent(out Enemy enemy))
-        {
-            enemy.TakeDamage(_damage);
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D collision)
-    {
-        if (collision.TryGetComponent(out Enemy enemy))
-        {
-            enemy.TakeDamage(_damage);
-        }
-    }
 
     public void Init(int damage)
     {
@@ -33,17 +19,22 @@ public class MeleeWeaponTemplate : MonoBehaviour
     public void Attack()
     {
         _animator.SetTrigger(Constants.ATTACK);
+
+        var enemies = Physics2D.OverlapCircleAll(_attackPoint.position, _attackArea, _layer);
+
+        Debug.Log("ENEMIES HIT " + enemies.Length);
+
+        foreach(var enemy in enemies)
+        {
+            if(enemy.TryGetComponent(out Enemy target))
+            {
+                target.TakeDamage(_damage);
+            }
+        }
     }
 
-    public void Activate()
+    private void OnDrawGizmosSelected()
     {
-        gameObject.SetActive(true);
-        //_collider.enabled = true;
-    }
-
-    public void Disable()
-    {
-        gameObject.SetActive(false);
-        //_collider.enabled = false;
+        Gizmos.DrawWireSphere(_attackPoint.position, _attackArea);
     }
 }
