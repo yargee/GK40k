@@ -15,5 +15,5 @@ MonoBehaviour:
   _id: 0
   _bulletTemplate: {fileID: 6803162034466898176, guid: 3641dcac0b9b2a44793c1ac2546b262c, type: 3}
   _rateOfFire: 0.15
-  _scatter: 0.3
-  _range: 8
+  _scatter: 0.2
+  _range: 15

@@ -32,8 +32,6 @@ public class RangedWeapon : MonoBehaviour
 
     public IEnumerator Shoot(Vector2 target)
     {
-        Debug.Log("shoott");
-
         Shooting = true;
         var bullet = Instantiate(_data.BulletTemplate, _barrel);
         _barrel.DetachChildren();

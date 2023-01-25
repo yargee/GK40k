@@ -6,6 +6,7 @@ public class EnemySpawner : MonoBehaviour
 {
     [SerializeField] private Player _target;
     [SerializeField] private List<EnemyWave> _waves;
+    [SerializeField] private int _enemyCount;
 
     private EnemyWave _currentWave;
     private int _currentWaveIndex = 0;
@@ -22,9 +23,9 @@ public class EnemySpawner : MonoBehaviour
 
     private IEnumerator SpawnWave()
     {
-        foreach(var enemy in _currentWave.Enemies)
+        for(int i = 0; i < _enemyCount; i++)
         {
-            var newEnemy = Instantiate(enemy, (Vector2)_currentWave.SpawnPoints[Random.Range(0, _currentWave.SpawnPoints.Count)].position + Random.insideUnitCircle.normalized, Quaternion.identity);
+            var newEnemy = Instantiate(_currentWave.Enemies[Random.Range(0,_currentWave.Enemies.Count)], (Vector2)_currentWave.SpawnPoints[Random.Range(0, _currentWave.SpawnPoints.Count)].position + Random.insideUnitCircle.normalized, Quaternion.identity);
             newEnemy.Init(_target);
             yield return new WaitForSeconds(Random.Range(0, _currentWave.MaxSpawnDelay));
         }

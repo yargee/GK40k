@@ -13,7 +13,7 @@ GameObject:
   - component: {fileID: 7653139150923912475}
   - component: {fileID: 76091292330777957}
   - component: {fileID: 6803162034466898176}
-  m_Layer: 6
+  m_Layer: 7
   m_Name: Flamer
   m_TagString: Untagged
   m_Icon: {fileID: 0}
@@ -101,7 +101,7 @@ Rigidbody2D:
   m_LinearDrag: 0
   m_AngularDrag: 0.05
   m_GravityScale: 1
-  m_Material: {fileID: 0}
+  m_Material: {fileID: 6200000, guid: 1cf3b53caffbe9a4dbc6cebea389d8ea, type: 2}
   m_Interpolate: 0
   m_SleepingMode: 1
   m_CollisionDetection: 0
@@ -135,6 +135,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _rigidbody: {fileID: 7653139150923912475}
-  _damage: 4
-  _armorPiercing: 80
-  _speed: 3
+  _damage: 7
+  _armorPiercing: 90
+  _speed: 4

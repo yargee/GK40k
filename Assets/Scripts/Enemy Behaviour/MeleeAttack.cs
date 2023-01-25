@@ -2,7 +2,7 @@ using BehaviorDesigner.Runtime.Tasks;
 using System.Collections;
 using UnityEngine;
 
-public class Attack : Action
+public class MeleeAttack : Action
 {
     [SerializeField] private int _damage;
     [SerializeField] private SharedPlayer _target;
@@ -14,7 +14,7 @@ public class Attack : Action
     {
         if(_attacking)
         {
-            return TaskStatus.Running;
+            return TaskStatus.Failure;
         }
         else
         {
@@ -31,5 +31,5 @@ public class Attack : Action
         yield return new WaitForSeconds(_attackSpeed);
 
         _attacking = false;
-    }
+    }    
 }

@@ -7,7 +7,8 @@ public class Chase : Action
 {
     [SerializeField] private SharedPlayer _target;
     [SerializeField] private float _rotationOffset;
-    [SerializeField] private int _sqrAttackDistance;
+    [SerializeField] private SharedInt _sqrAttackDistance;
+
     public SharedInt _maxSightDistance;
 
     private NavMeshAgent _agent;
@@ -30,8 +31,15 @@ public class Chase : Action
             return TaskStatus.Failure;
         }
 
+        if(IsAttackDistance())
+        {
+            _agent.isStopped = true;
+            return TaskStatus.Success;
+        }
+
         _agent.isStopped = false;
-        return IsAttackDistance() ? TaskStatus.Success : TaskStatus.Running;
+
+        return TaskStatus.Running;
     }
 
     private Vector2 GetDirection()
@@ -48,7 +56,7 @@ public class Chase : Action
 
     private bool IsAttackDistance()
     {
-        return _sqrAttackDistance >= Vector2.SqrMagnitude(transform.position - _target.Value.transform.position);
+        return _sqrAttackDistance.Value >= Vector2.SqrMagnitude(transform.position - _target.Value.transform.position);
     }
 
     private bool IsTargetLost()

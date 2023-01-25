@@ -18,12 +18,9 @@ public class Shooting : MonoBehaviour
 
     private void Update()
     {        
-        if(Input.GetMouseButton(0))  // && !_eventSystem.IsPointerOverGameObject())
+        if(Input.GetMouseButton(0) && !_eventSystem.IsPointerOverGameObject())
         {
-            
             if (_rangedWeapon.Shooting) return;
-
-            Debug.LogError("SHOOOT");
 
             Vector2 target = _camera.ScreenToWorldPoint(Input.mousePosition) - _barrel.position;
             StartCoroutine(_rangedWeapon.Shoot(target));

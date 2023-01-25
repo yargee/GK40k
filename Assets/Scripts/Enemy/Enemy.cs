@@ -8,7 +8,6 @@ public class Enemy : MonoBehaviour
 {
     [SerializeField] private Collider2D _collider;
     [SerializeField] private BehaviorTree _behaviourTree;
-    [SerializeField] private Rigidbody2D _rigidbody;
     [SerializeField] private Health _health;
     [SerializeField] private Player _target;
 
@@ -21,7 +20,7 @@ public class Enemy : MonoBehaviour
         _health.Died -= OnDied;
     }
 
-    public void Init(Player target)
+    public virtual void Init(Player target)
     {
         _target = target;
         var player = _behaviourTree.GetVariable("_player");
@@ -36,7 +35,6 @@ public class Enemy : MonoBehaviour
     private void OnDied()
     {
         _collider.enabled = false;
-        _rigidbody.simulated = false;
         _health.enabled = false;
 
         Destroy(gameObject);
